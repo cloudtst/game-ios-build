@@ -1,0 +1,125 @@
+
+エフェクト.png
+size: 247,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+がっかりオーラ
+  rotate: false
+  xy: 2, 5
+  size: 147, 117
+  orig: 245, 197
+  offset: 54, 45
+  index: -1
+がっかり水玉
+  rotate: true
+  xy: 184, 17
+  size: 24, 41
+  orig: 245, 197
+  offset: 141, 61
+  index: -1
+がっかり線
+  rotate: true
+  xy: 151, 43
+  size: 79, 65
+  orig: 245, 197
+  offset: 84, 60
+  index: -1
+ハート1
+  rotate: false
+  xy: 151, 14
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート13
+  rotate: false
+  xy: 151, 14
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート14
+  rotate: false
+  xy: 151, 14
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート4
+  rotate: false
+  xy: 151, 14
+  size: 31, 27
+  orig: 245, 197
+  offset: 174, 60
+  index: -1
+ハート9
+  rotate: false
+  xy: 151, 14
+  size: 31, 27
+  orig: 245, 197
+  offset: 94, 42
+  index: -1
+ハート10
+  rotate: true
+  xy: 218, 96
+  size: 26, 23
+  orig: 245, 197
+  offset: 162, 117
+  index: -1
+ハート11
+  rotate: false
+  xy: 227, 6
+  size: 18, 16
+  orig: 245, 197
+  offset: 188, 94
+  index: -1
+ハート12
+  rotate: false
+  xy: 227, 6
+  size: 18, 16
+  orig: 245, 197
+  offset: 188, 94
+  index: -1
+ハート2
+  rotate: true
+  xy: 227, 24
+  size: 20, 17
+  orig: 245, 197
+  offset: 80, 81
+  index: -1
+ハート3
+  rotate: false
+  xy: 218, 46
+  size: 23, 21
+  orig: 245, 197
+  offset: 66, 107
+  index: -1
+ハート5
+  rotate: false
+  xy: 201, 2
+  size: 14, 13
+  orig: 245, 197
+  offset: 164, 53
+  index: -1
+ハート7
+  rotate: false
+  xy: 201, 2
+  size: 14, 13
+  orig: 245, 197
+  offset: 131, 126
+  index: -1
+ハート6
+  rotate: true
+  xy: 218, 69
+  size: 25, 23
+  orig: 245, 197
+  offset: 115, 133
+  index: -1
+ハート8
+  rotate: false
+  xy: 184, 2
+  size: 15, 13
+  orig: 245, 197
+  offset: 86, 109
+  index: -1

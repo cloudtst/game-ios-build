@@ -1,0 +1,4290 @@
+
+クウォータービュー.png
+size: 4081,2071
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+がっかりオーラ
+  rotate: true
+  xy: 2314, 772
+  size: 147, 117
+  orig: 245, 197
+  offset: 54, 45
+  index: -1
+がっかり水玉
+  rotate: true
+  xy: 2077, 2
+  size: 24, 41
+  orig: 245, 197
+  offset: 141, 61
+  index: -1
+がっかり線
+  rotate: false
+  xy: 3767, 533
+  size: 79, 65
+  orig: 245, 197
+  offset: 84, 60
+  index: -1
+ケーキつまみ
+  rotate: true
+  xy: 2829, 685
+  size: 10, 11
+  orig: 45, 18
+  offset: 9, 3
+  index: -1
+ケーキフォーク
+  rotate: true
+  xy: 2875, 1454
+  size: 27, 10
+  orig: 45, 18
+  offset: 12, 3
+  index: -1
+ケーキフォーク2
+  rotate: true
+  xy: 2875, 1454
+  size: 27, 10
+  orig: 45, 18
+  offset: 12, 3
+  index: -1
+ゲーム_コントローラー
+  rotate: false
+  xy: 2812, 1246
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+ゲーム_スカート
+  rotate: false
+  xy: 3411, 865
+  size: 80, 65
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+ゲーム_ピアス_赤2
+  rotate: false
+  xy: 1475, 530
+  size: 5, 14
+  orig: 7, 16
+  offset: 1, 1
+  index: -1
+対座_ピアス_赤2
+  rotate: false
+  xy: 1475, 530
+  size: 5, 14
+  orig: 7, 16
+  offset: 1, 1
+  index: -1
+ゲーム_ピアス_黒赤メッシュ1
+  rotate: false
+  xy: 2180, 554
+  size: 8, 28
+  orig: 10, 30
+  offset: 1, 1
+  index: -1
+ゲーム_制服_胴体
+  rotate: false
+  xy: 3430, 655
+  size: 90, 93
+  orig: 94, 94
+  offset: 4, 1
+  index: -1
+ゲーム_制服_腕手前
+  rotate: false
+  xy: 2813, 1992
+  size: 44, 77
+  orig: 94, 94
+  offset: 12, 0
+  index: -1
+ゲーム_制服_靴下L
+  rotate: false
+  xy: 3525, 479
+  size: 85, 55
+  orig: 87, 58
+  offset: 1, 1
+  index: -1
+ゲーム_制服_靴下R
+  rotate: true
+  xy: 4029, 743
+  size: 43, 50
+  orig: 44, 51
+  offset: 0, 1
+  index: -1
+ゲーム_口
+  rotate: false
+  xy: 3914, 386
+  size: 4, 5
+  orig: 6, 7
+  offset: 1, 1
+  index: -1
+ゲーム_目_ピンク5
+  rotate: true
+  xy: 1169, 504
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+ゲーム_目_赤2
+  rotate: false
+  xy: 2156, 1101
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+ゲーム_目_金4
+  rotate: false
+  xy: 3960, 394
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+ゲーム_目_黒赤メッシュ1
+  rotate: true
+  xy: 1822, 25
+  size: 15, 12
+  orig: 17, 14
+  offset: 1, 1
+  index: -1
+ゲーム_目_黒黄メッシュ3
+  rotate: false
+  xy: 4064, 540
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+ゲーム_眉
+  rotate: false
+  xy: 3222, 834
+  size: 14, 7
+  orig: 16, 10
+  offset: 1, 2
+  index: -1
+ゲーム_落ちカゲ
+  rotate: true
+  xy: 3414, 1074
+  size: 158, 77
+  orig: 159, 77
+  offset: 1, 0
+  index: -1
+ゲーム_裸_胴体
+  rotate: false
+  xy: 668, 2
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+ゲーム_裸_胴体_褐色
+  rotate: true
+  xy: 2947, 1117
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+ゲーム_裸_脚L
+  rotate: true
+  xy: 3197, 460
+  size: 91, 51
+  orig: 108, 87
+  offset: 0, 36
+  index: -1
+ゲーム_裸_脚L_褐色
+  rotate: false
+  xy: 3525, 426
+  size: 91, 51
+  orig: 108, 87
+  offset: 0, 36
+  index: -1
+ゲーム_裸_脚R
+  rotate: true
+  xy: 3152, 379
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+ゲーム_裸_脚R_褐色
+  rotate: true
+  xy: 2469, 1091
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+ゲーム_裸_脚ひざ下L
+  rotate: true
+  xy: 2383, 331
+  size: 108, 85
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+ゲーム_裸_脚ひざ下L_褐色
+  rotate: true
+  xy: 2726, 209
+  size: 108, 85
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+ゲーム_髪_ピンク5
+  rotate: true
+  xy: 3976, 1044
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+ゲーム_髪_赤2
+  rotate: false
+  xy: 3411, 794
+  size: 80, 69
+  orig: 82, 71
+  offset: 1, 1
+  index: -1
+ゲーム_髪_金4
+  rotate: true
+  xy: 2828, 364
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+ゲーム_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2197, 2
+  size: 82, 170
+  orig: 83, 170
+  offset: 0, 0
+  index: -1
+ゲーム_髪_黒黄メッシュ3
+  rotate: true
+  xy: 3493, 1051
+  size: 80, 161
+  orig: 80, 161
+  offset: 0, 0
+  index: -1
+シャ_体水滴
+  rotate: true
+  xy: 1483, 157
+  size: 113, 351
+  orig: 113, 351
+  offset: 0, 0
+  index: -1
+シャ_体水滴2
+  rotate: true
+  xy: 1483, 42
+  size: 113, 351
+  orig: 113, 351
+  offset: 0, 0
+  index: -1
+シャ_体水滴垂れ1
+  rotate: false
+  xy: 2156, 772
+  size: 156, 147
+  orig: 158, 149
+  offset: 1, 1
+  index: -1
+シャ_体水滴垂れ2
+  rotate: false
+  xy: 2020, 174
+  size: 178, 160
+  orig: 180, 162
+  offset: 1, 1
+  index: -1
+シャ_手L
+  rotate: false
+  xy: 3998, 658
+  size: 23, 30
+  orig: 23, 34
+  offset: 0, 1
+  index: -1
+シャ_手L_褐色
+  rotate: false
+  xy: 4024, 153
+  size: 23, 33
+  orig: 37, 56
+  offset: 1, 22
+  index: -1
+シャ_浴槽かぶせ
+  rotate: false
+  xy: 2554, 318
+  size: 126, 127
+  orig: 128, 129
+  offset: 1, 1
+  index: -1
+シャ_浴槽かぶせ2
+  rotate: false
+  xy: 2020, 336
+  size: 168, 209
+  orig: 365, 312
+  offset: 137, 2
+  index: -1
+シャ_湯気1
+  rotate: false
+  xy: 2492, 65
+  size: 99, 140
+  orig: 108, 159
+  offset: 5, 1
+  index: -1
+シャ_湯気11
+  rotate: false
+  xy: 2492, 65
+  size: 99, 140
+  orig: 108, 159
+  offset: 5, 1
+  index: -1
+シャ_湯気2
+  rotate: true
+  xy: 1866, 226
+  size: 138, 152
+  orig: 141, 191
+  offset: 1, 12
+  index: -1
+シャ_湯気22
+  rotate: true
+  xy: 1866, 226
+  size: 138, 152
+  orig: 141, 191
+  offset: 1, 12
+  index: -1
+シャ_湯気3
+  rotate: true
+  xy: 2363, 59
+  size: 146, 127
+  orig: 150, 167
+  offset: 1, 11
+  index: -1
+シャ_湯気33
+  rotate: true
+  xy: 2363, 59
+  size: 146, 127
+  orig: 150, 167
+  offset: 1, 11
+  index: -1
+シャ_湯気4
+  rotate: false
+  xy: 2631, 664
+  size: 118, 119
+  orig: 133, 126
+  offset: 7, 6
+  index: -1
+シャ_湯気44
+  rotate: false
+  xy: 2631, 664
+  size: 118, 119
+  orig: 133, 126
+  offset: 7, 6
+  index: -1
+シャ_男_L腕_裸
+  rotate: false
+  xy: 3601, 824
+  size: 35, 71
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+漫_男_L腕_裸
+  rotate: false
+  xy: 3601, 824
+  size: 35, 71
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+シャ_男_体水滴
+  rotate: true
+  xy: 3721, 1733
+  size: 120, 352
+  orig: 120, 358
+  offset: 0, 0
+  index: -1
+シャ_男_共通_裸
+  rotate: true
+  xy: 3721, 1611
+  size: 120, 352
+  orig: 120, 358
+  offset: 0, 0
+  index: -1
+漫_男_共通_裸
+  rotate: true
+  xy: 3721, 1611
+  size: 120, 352
+  orig: 120, 358
+  offset: 0, 0
+  index: -1
+シャ_男_共通_頭
+  rotate: true
+  xy: 3348, 173
+  size: 73, 91
+  orig: 73, 95
+  offset: 0, 3
+  index: -1
+漫_男_共通_頭
+  rotate: true
+  xy: 3348, 173
+  size: 73, 91
+  orig: 73, 95
+  offset: 0, 3
+  index: -1
+シャ_男_裸_腕R_股間
+  rotate: true
+  xy: 2757, 827
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+漫_男_裸_腕R_股間
+  rotate: true
+  xy: 2757, 827
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+シャ_男_裸_腕R_胸揉み
+  rotate: true
+  xy: 3430, 605
+  size: 48, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+漫_男_裸_腕R_胸揉み
+  rotate: true
+  xy: 3430, 605
+  size: 48, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+シャ_男_裸_腕前R_胸揉み
+  rotate: false
+  xy: 3698, 408
+  size: 66, 74
+  orig: 91, 90
+  offset: 24, 0
+  index: -1
+漫_男_裸_腕前R_胸揉み
+  rotate: false
+  xy: 3698, 408
+  size: 66, 74
+  orig: 91, 90
+  offset: 24, 0
+  index: -1
+シャ_男_足元カゲ
+  rotate: false
+  xy: 2829, 612
+  size: 113, 71
+  orig: 115, 74
+  offset: 1, 1
+  index: -1
+漫_男_足元カゲ
+  rotate: false
+  xy: 2829, 612
+  size: 113, 71
+  orig: 115, 74
+  offset: 1, 1
+  index: -1
+シャ_目_ピンク
+  rotate: true
+  xy: 2507, 934
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+シャ_目_赤
+  rotate: true
+  xy: 2156, 1091
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+漫_目_赤
+  rotate: true
+  xy: 2156, 1091
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+シャ_目_金
+  rotate: false
+  xy: 2747, 843
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+シャ_目_黒赤メッシュ
+  rotate: true
+  xy: 2552, 934
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+漫_目_黒赤メッシュ
+  rotate: true
+  xy: 2552, 934
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+シャ_目_黒黄メッシュ
+  rotate: true
+  xy: 880, 2
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+シャ_眉
+  rotate: true
+  xy: 3871, 1132
+  size: 7, 5
+  orig: 9, 7
+  offset: 1, 1
+  index: -1
+漫_眉
+  rotate: true
+  xy: 3871, 1132
+  size: 7, 5
+  orig: 9, 7
+  offset: 1, 1
+  index: -1
+シャ_胴体_
+  rotate: false
+  xy: 1962, 733
+  size: 92, 381
+  orig: 92, 383
+  offset: 0, 2
+  index: -1
+シャ_胴体_褐色
+  rotate: true
+  xy: 1483, 272
+  size: 92, 381
+  orig: 92, 383
+  offset: 0, 2
+  index: -1
+シャ_腕R
+  rotate: false
+  xy: 3648, 1133
+  size: 87, 124
+  orig: 88, 126
+  offset: 1, 0
+  index: -1
+シャ_腕R_褐色
+  rotate: false
+  xy: 3992, 1123
+  size: 87, 124
+  orig: 88, 126
+  offset: 1, 0
+  index: -1
+シャ_腕奥
+  rotate: false
+  xy: 3955, 146
+  size: 40, 23
+  orig: 47, 30
+  offset: 4, 4
+  index: -1
+シャ_腕奥_褐色
+  rotate: true
+  xy: 4024, 188
+  size: 40, 23
+  orig: 47, 30
+  offset: 4, 4
+  index: -1
+シャ_髪_ピンク5
+  rotate: false
+  xy: 2471, 207
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+シャ_髪_赤2
+  rotate: true
+  xy: 3656, 1046
+  size: 85, 79
+  orig: 87, 79
+  offset: 1, 0
+  index: -1
+シャ_髪_金4
+  rotate: true
+  xy: 2644, 1049
+  size: 88, 149
+  orig: 88, 149
+  offset: 0, 0
+  index: -1
+シャ_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2281, 11
+  size: 80, 191
+  orig: 90, 191
+  offset: 10, 0
+  index: -1
+シャ_髪_黒黄メッシュ3
+  rotate: true
+  xy: 1180, 2
+  size: 83, 203
+  orig: 83, 203
+  offset: 0, 0
+  index: -1
+シャワー水
+  rotate: true
+  xy: 1706, 1990
+  size: 79, 1105
+  orig: 79, 1105
+  offset: 0, 0
+  index: -1
+シャワー水2
+  rotate: true
+  xy: 1706, 1990
+  size: 79, 1105
+  orig: 79, 1105
+  offset: 0, 0
+  index: -1
+チョコつまむ
+  rotate: false
+  xy: 3967, 765
+  size: 10, 8
+  orig: 20, 18
+  offset: 5, 5
+  index: -1
+ト_オナニー_マンコ
+  rotate: false
+  xy: 3848, 457
+  size: 57, 52
+  orig: 242, 221
+  offset: 109, 62
+  index: -1
+ト_オナニー_マンコモザイク
+  rotate: true
+  xy: 3087, 2
+  size: 67, 62
+  orig: 242, 221
+  offset: 104, 55
+  index: -1
+ト_オナニー_下地
+  rotate: false
+  xy: 2190, 440
+  size: 153, 142
+  orig: 242, 221
+  offset: 61, 21
+  index: -1
+ト_オナニー_手
+  rotate: true
+  xy: 3737, 1023
+  size: 105, 139
+  orig: 242, 221
+  offset: 53, 72
+  index: -1
+ト_オナニー_手_褐色
+  rotate: true
+  xy: 3737, 916
+  size: 105, 139
+  orig: 242, 221
+  offset: 53, 72
+  index: -1
+ト_オナニー_断面吹き出し
+  rotate: false
+  xy: 3878, 787
+  size: 99, 92
+  orig: 242, 221
+  offset: 85, 42
+  index: -1
+断面吹き出し
+  rotate: false
+  xy: 3878, 787
+  size: 99, 92
+  orig: 179, 164
+  offset: 59, 41
+  index: -1
+断面吹き出しトイレ用
+  rotate: false
+  xy: 3878, 787
+  size: 99, 92
+  orig: 179, 164
+  offset: 59, 41
+  index: -1
+断面吹き出し座位用
+  rotate: false
+  xy: 3878, 787
+  size: 99, 92
+  orig: 179, 164
+  offset: 59, 41
+  index: -1
+ト_オナニー_肌
+  rotate: true
+  xy: 2511, 1250
+  size: 204, 109
+  orig: 242, 221
+  offset: 12, 48
+  index: -1
+ト_オナニー_肌_褐色
+  rotate: false
+  xy: 2887, 1396
+  size: 204, 109
+  orig: 242, 221
+  offset: 12, 48
+  index: -1
+ト_スリッパL
+  rotate: false
+  xy: 3636, 128
+  size: 52, 39
+  orig: 54, 41
+  offset: 1, 1
+  index: -1
+ト_スリッパR
+  rotate: false
+  xy: 3788, 71
+  size: 54, 35
+  orig: 56, 37
+  offset: 1, 1
+  index: -1
+ト_スリッパ上L
+  rotate: false
+  xy: 4040, 302
+  size: 37, 32
+  orig: 39, 34
+  offset: 1, 1
+  index: -1
+ト_スリッパ上R
+  rotate: false
+  xy: 3293, 1463
+  size: 35, 31
+  orig: 37, 33
+  offset: 1, 1
+  index: -1
+ト_チョーカー
+  rotate: false
+  xy: 3127, 71
+  size: 22, 14
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+ト_パンツ
+  rotate: true
+  xy: 3207, 392
+  size: 66, 41
+  orig: 66, 43
+  offset: 0, 2
+  index: -1
+ト_ピアス_ピンク5
+  rotate: true
+  xy: 3110, 172
+  size: 10, 11
+  orig: 12, 14
+  offset: 1, 2
+  index: -1
+ト_ピアス_赤2
+  rotate: false
+  xy: 3238, 905
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+入_ピアス_赤2
+  rotate: false
+  xy: 3238, 905
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+ト_ピアス_黒赤メッシュ1
+  rotate: true
+  xy: 3969, 104
+  size: 3, 8
+  orig: 6, 10
+  offset: 2, 1
+  index: -1
+ト_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3087, 1385
+  size: 4, 9
+  orig: 6, 11
+  offset: 1, 1
+  index: -1
+冷_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3087, 1385
+  size: 4, 9
+  orig: 6, 11
+  offset: 1, 1
+  index: -1
+ト_制服_スカート
+  rotate: true
+  xy: 3689, 699
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+ト_制服_胴体
+  rotate: false
+  xy: 788, 2
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+ト_制服_胴体電マオナニー用
+  rotate: false
+  xy: 788, 2
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+ト_制服_胴体_褐色
+  rotate: true
+  xy: 2947, 1025
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+ト_制服_胴体_褐色電マオナニー用
+  rotate: true
+  xy: 2947, 1025
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+ト_制服_腕L_袖
+  rotate: true
+  xy: 3444, 210
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+ト_制服_腕Lオナニー_袖
+  rotate: false
+  xy: 3360, 750
+  size: 49, 72
+  orig: 49, 75
+  offset: 0, 3
+  index: -1
+ト_制服_靴下L
+  rotate: true
+  xy: 2829, 563
+  size: 47, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+ト_制服_靴下R
+  rotate: false
+  xy: 3131, 281
+  size: 69, 96
+  orig: 71, 105
+  offset: 0, 0
+  index: -1
+ト_口_閉じ
+  rotate: false
+  xy: 3097, 914
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+ト_口_開け
+  rotate: true
+  xy: 3898, 511
+  size: 10, 7
+  orig: 13, 10
+  offset: 1, 2
+  index: -1
+ト_目_ピンク5
+  rotate: true
+  xy: 4003, 154
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+ト_目_赤2
+  rotate: true
+  xy: 3948, 104
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+ト_目_金4
+  rotate: true
+  xy: 3979, 70
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+ト_目_閉じ
+  rotate: true
+  xy: 880, 78
+  size: 37, 17
+  orig: 39, 20
+  offset: 1, 1
+  index: -1
+ト_目_黒赤メッシュ1
+  rotate: false
+  xy: 3970, 49
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+ト_目_黒黄メッシュ3
+  rotate: false
+  xy: 4009, 52
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+ト_眉困り
+  rotate: true
+  xy: 880, 12
+  size: 38, 16
+  orig: 42, 20
+  offset: 2, 3
+  index: -1
+ト_眉通常
+  rotate: false
+  xy: 3930, 49
+  size: 38, 19
+  orig: 40, 22
+  offset: 1, 2
+  index: -1
+ト_胸リボン赤
+  rotate: false
+  xy: 3992, 193
+  size: 30, 35
+  orig: 32, 36
+  offset: 2, 0
+  index: -1
+ト_腕R_裸
+  rotate: false
+  xy: 3846, 386
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+ト_腕R_褐色
+  rotate: false
+  xy: 3890, 176
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+ト_落ちカゲL
+  rotate: true
+  xy: 3907, 458
+  size: 63, 49
+  orig: 69, 52
+  offset: 2, 1
+  index: -1
+ト_落ちカゲR
+  rotate: true
+  xy: 3914, 393
+  size: 63, 44
+  orig: 66, 47
+  offset: 1, 1
+  index: -1
+ト_裸_脚L
+  rotate: false
+  xy: 2180, 584
+  size: 119, 186
+  orig: 172, 201
+  offset: 53, 0
+  index: -1
+ト_裸_脚L_褐色
+  rotate: false
+  xy: 2301, 584
+  size: 119, 186
+  orig: 172, 199
+  offset: 53, 0
+  index: -1
+ト_裸_脚R
+  rotate: true
+  xy: 3901, 1460
+  size: 149, 168
+  orig: 149, 200
+  offset: 0, 32
+  index: -1
+ト_裸_脚R_褐色
+  rotate: false
+  xy: 2156, 921
+  size: 149, 168
+  orig: 149, 200
+  offset: 0, 32
+  index: -1
+ト_裸_腕L
+  rotate: true
+  xy: 2757, 902
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+ト_裸_腕L_褐色
+  rotate: false
+  xy: 2644, 532
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+ト_裸_腕Lオナニー
+  rotate: true
+  xy: 3250, 491
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+ト_裸_腕Lオナニー_褐色
+  rotate: true
+  xy: 3250, 425
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+ト_電マ
+  rotate: true
+  xy: 3379, 824
+  size: 79, 30
+  orig: 88, 58
+  offset: 4, 8
+  index: -1
+ト_電マ_制服腕
+  rotate: false
+  xy: 3504, 8
+  size: 36, 80
+  orig: 104, 103
+  offset: 63, 15
+  index: -1
+ト_電マ_吹き出し用
+  rotate: false
+  xy: 3737, 1130
+  size: 132, 128
+  orig: 242, 221
+  offset: 0, 75
+  index: -1
+ト_電マ_手奥
+  rotate: true
+  xy: 3750, 119
+  size: 46, 41
+  orig: 88, 58
+  offset: 20, 12
+  index: -1
+ト_電マ_手奥_褐色
+  rotate: true
+  xy: 3997, 280
+  size: 46, 41
+  orig: 88, 58
+  offset: 20, 12
+  index: -1
+ト_電マ_手胸突っ込み
+  rotate: false
+  xy: 4040, 265
+  size: 33, 35
+  orig: 104, 103
+  offset: 13, 36
+  index: -1
+ト_電マ_腕
+  rotate: true
+  xy: 2740, 2
+  size: 65, 87
+  orig: 104, 103
+  offset: 32, 7
+  index: -1
+ト_電マ_腕_褐色
+  rotate: true
+  xy: 2829, 2
+  size: 65, 87
+  orig: 104, 103
+  offset: 32, 7
+  index: -1
+ト_髪_ピンク5
+  rotate: true
+  xy: 3493, 811
+  size: 84, 106
+  orig: 89, 106
+  offset: 5, 0
+  index: -1
+ト_髪_赤2
+  rotate: false
+  xy: 2749, 448
+  size: 77, 82
+  orig: 82, 83
+  offset: 5, 1
+  index: -1
+ト_髪_金4
+  rotate: false
+  xy: 2813, 69
+  size: 89, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+ト_髪_黒赤メッシ1
+  rotate: false
+  xy: 3522, 644
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+ト_髪_黒黄メッシュ3
+  rotate: false
+  xy: 2751, 600
+  size: 76, 95
+  orig: 78, 97
+  offset: 1, 1
+  index: -1
+ト_髪ポニテ_金4
+  rotate: true
+  xy: 2056, 733
+  size: 35, 100
+  orig: 94, 101
+  offset: 54, 0
+  index: -1
+ト_髪奥_ピンク5
+  rotate: false
+  xy: 3475, 2
+  size: 27, 86
+  orig: 27, 87
+  offset: 0, 1
+  index: -1
+冷_髪奥_ピンク5
+  rotate: false
+  xy: 3475, 2
+  size: 27, 86
+  orig: 27, 87
+  offset: 0, 1
+  index: -1
+ト_髪奥_黒黄メッシュ3
+  rotate: false
+  xy: 1100, 973
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+冷_髪奥_黒黄色メッシュ3
+  rotate: false
+  xy: 1100, 973
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+ハート1
+  rotate: true
+  xy: 2227, 1459
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート13
+  rotate: true
+  xy: 2227, 1459
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート14
+  rotate: true
+  xy: 2227, 1459
+  size: 31, 27
+  orig: 245, 197
+  offset: 39, 42
+  index: -1
+ハート4
+  rotate: true
+  xy: 2227, 1459
+  size: 31, 27
+  orig: 245, 197
+  offset: 174, 60
+  index: -1
+ハート9
+  rotate: true
+  xy: 2227, 1459
+  size: 31, 27
+  orig: 245, 197
+  offset: 94, 42
+  index: -1
+ハート10
+  rotate: false
+  xy: 2859, 1690
+  size: 26, 23
+  orig: 245, 197
+  offset: 162, 117
+  index: -1
+ハート11
+  rotate: true
+  xy: 3699, 2
+  size: 18, 16
+  orig: 245, 197
+  offset: 188, 94
+  index: -1
+ハート12
+  rotate: true
+  xy: 3699, 2
+  size: 18, 16
+  orig: 245, 197
+  offset: 188, 94
+  index: -1
+ハート2
+  rotate: true
+  xy: 3343, 1619
+  size: 20, 17
+  orig: 245, 197
+  offset: 80, 81
+  index: -1
+ハート3
+  rotate: true
+  xy: 2487, 1138
+  size: 23, 21
+  orig: 245, 197
+  offset: 66, 107
+  index: -1
+ハート5
+  rotate: false
+  xy: 4065, 1282
+  size: 14, 13
+  orig: 245, 197
+  offset: 164, 53
+  index: -1
+ハート7
+  rotate: false
+  xy: 4065, 1282
+  size: 14, 13
+  orig: 245, 197
+  offset: 131, 126
+  index: -1
+ハート6
+  rotate: false
+  xy: 3362, 1740
+  size: 25, 23
+  orig: 245, 197
+  offset: 115, 133
+  index: -1
+ハート8
+  rotate: false
+  xy: 4064, 525
+  size: 15, 13
+  orig: 245, 197
+  offset: 86, 109
+  index: -1
+ピザつまみ
+  rotate: false
+  xy: 3959, 230
+  size: 36, 29
+  orig: 50, 44
+  offset: 5, 6
+  index: -1
+ピザつまみ食べかけ
+  rotate: false
+  xy: 3362, 1709
+  size: 20, 29
+  orig: 50, 44
+  offset: 21, 6
+  index: -1
+フルーツつまむ用
+  rotate: false
+  xy: 1658, 1105
+  size: 25, 9
+  orig: 29, 22
+  offset: 4, 8
+  index: -1
+フルーツつまようじ
+  rotate: true
+  xy: 3197, 433
+  size: 25, 8
+  orig: 29, 22
+  offset: 4, 8
+  index: -1
+ポテチつまむ用
+  rotate: false
+  xy: 4062, 594
+  size: 17, 17
+  orig: 29, 22
+  offset: 7, 3
+  index: -1
+入_ピアス_ピンク5
+  rotate: true
+  xy: 3679, 120
+  size: 6, 9
+  orig: 8, 11
+  offset: 1, 1
+  index: -1
+入_制服_スカート
+  rotate: false
+  xy: 3889, 690
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+入_制服_スカートカゲ
+  rotate: true
+  xy: 3931, 544
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+入_制服_上半身
+  rotate: true
+  xy: 2511, 1151
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+入_制服_腕L_袖
+  rotate: false
+  xy: 3751, 167
+  size: 36, 76
+  orig: 37, 83
+  offset: 0, 5
+  index: -1
+入_制服_腕R_袖
+  rotate: false
+  xy: 3587, 13
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+入_制服_鞄
+  rotate: false
+  xy: 2553, 207
+  size: 88, 109
+  orig: 89, 128
+  offset: 1, 19
+  index: -1
+入_制服_鞄カゲ
+  rotate: false
+  xy: 3612, 480
+  size: 81, 56
+  orig: 89, 128
+  offset: 3, 0
+  index: -1
+入_立ち位置
+  rotate: false
+  xy: 2918, 2
+  size: 85, 65
+  orig: 87, 66
+  offset: 1, 0
+  index: -1
+入_裸_上半身
+  rotate: false
+  xy: 2593, 54
+  size: 95, 151
+  orig: 95, 191
+  offset: 0, 0
+  index: -1
+入_裸_上半身_褐色
+  rotate: true
+  xy: 3721, 1369
+  size: 93, 174
+  orig: 95, 198
+  offset: 1, 1
+  index: -1
+入_裸_脚L
+  rotate: true
+  xy: 3293, 1234
+  size: 52, 190
+  orig: 52, 191
+  offset: 0, 0
+  index: -1
+入_裸_脚L_褐色
+  rotate: true
+  xy: 3483, 1308
+  size: 52, 190
+  orig: 52, 191
+  offset: 0, 0
+  index: -1
+入_裸_脚R
+  rotate: true
+  xy: 1571, 4
+  size: 36, 171
+  orig: 42, 171
+  offset: 6, 0
+  index: -1
+入_裸_脚R_褐色
+  rotate: false
+  xy: 2422, 599
+  size: 36, 171
+  orig: 42, 171
+  offset: 6, 0
+  index: -1
+入_裸_脚先L
+  rotate: true
+  xy: 4040, 376
+  size: 38, 39
+  orig: 52, 191
+  offset: 0, 0
+  index: -1
+入_裸_脚先L_褐色
+  rotate: true
+  xy: 4040, 376
+  size: 38, 39
+  orig: 52, 191
+  offset: 0, 0
+  index: -1
+入_裸_脚先R
+  rotate: true
+  xy: 4040, 336
+  size: 38, 39
+  orig: 42, 171
+  offset: 0, 0
+  index: -1
+入_裸_脚先R_褐色
+  rotate: true
+  xy: 4040, 336
+  size: 38, 39
+  orig: 42, 171
+  offset: 0, 0
+  index: -1
+入_裸_腕L
+  rotate: false
+  xy: 2690, 53
+  size: 45, 152
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+入_裸_腕L_褐色
+  rotate: true
+  xy: 2644, 1004
+  size: 43, 149
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+入_裸_腕R
+  rotate: true
+  xy: 3104, 1000
+  size: 29, 153
+  orig: 29, 153
+  offset: 0, 0
+  index: -1
+入_裸_腕R_持ち手かぶせ
+  rotate: false
+  xy: 3675, 2
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+入_裸_腕R_持ち手かぶせ_褐色
+  rotate: true
+  xy: 3875, 1288
+  size: 19, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+入_裸_腕R_褐色
+  rotate: true
+  xy: 3258, 905
+  size: 27, 151
+  orig: 29, 153
+  offset: 1, 1
+  index: -1
+入_足元_落ち影
+  rotate: true
+  xy: 3626, 249
+  size: 85, 64
+  orig: 87, 66
+  offset: 1, 1
+  index: -1
+入_頭
+  rotate: true
+  xy: 3844, 328
+  size: 56, 74
+  orig: 58, 77
+  offset: 1, 2
+  index: -1
+入_頭_褐色
+  rotate: false
+  xy: 3545, 134
+  size: 56, 74
+  orig: 58, 77
+  offset: 1, 2
+  index: -1
+入_髪_ピンク5
+  rotate: true
+  xy: 2925, 383
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+入_髪_赤2
+  rotate: false
+  xy: 3537, 247
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+入_髪_金4
+  rotate: false
+  xy: 3110, 184
+  size: 90, 95
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+入_髪_黒赤メッシュ1
+  rotate: true
+  xy: 3496, 1362
+  size: 70, 188
+  orig: 70, 188
+  offset: 0, 0
+  index: -1
+入_髪_黒黄メッシュ3
+  rotate: true
+  xy: 3259, 934
+  size: 88, 162
+  orig: 88, 162
+  offset: 0, 0
+  index: -1
+冷_チョーカー
+  rotate: false
+  xy: 1708, 736
+  size: 24, 15
+  orig: 27, 17
+  offset: 2, 1
+  index: -1
+冷_ピアス_ピンク5
+  rotate: true
+  xy: 2281, 2
+  size: 7, 9
+  orig: 9, 12
+  offset: 1, 2
+  index: -1
+冷_ピアス_赤2
+  rotate: false
+  xy: 1475, 761
+  size: 9, 8
+  orig: 12, 12
+  offset: 2, 2
+  index: -1
+冷_ピアス_黒赤メッシュ1
+  rotate: false
+  xy: 2007, 200
+  size: 11, 24
+  orig: 14, 27
+  offset: 2, 2
+  index: -1
+冷_制服_スカート
+  rotate: false
+  xy: 2743, 532
+  size: 79, 66
+  orig: 80, 67
+  offset: 1, 0
+  index: -1
+冷_制服_胴体
+  rotate: false
+  xy: 3610, 687
+  size: 77, 90
+  orig: 80, 93
+  offset: 1, 2
+  index: -1
+冷_制服_腕L_袖
+  rotate: false
+  xy: 3899, 611
+  size: 62, 77
+  orig: 65, 80
+  offset: 1, 2
+  index: -1
+冷_制服_腕R_袖
+  rotate: false
+  xy: 3888, 71
+  size: 56, 33
+  orig: 61, 35
+  offset: 4, 2
+  index: -1
+冷_制服_靴下L
+  rotate: true
+  xy: 3616, 14
+  size: 53, 57
+  orig: 55, 58
+  offset: 1, 0
+  index: -1
+冷_制服_靴下R
+  rotate: false
+  xy: 4024, 656
+  size: 55, 51
+  orig: 56, 53
+  offset: 0, 1
+  index: -1
+冷_口
+  rotate: false
+  xy: 3082, 634
+  size: 5, 5
+  orig: 9, 9
+  offset: 2, 2
+  index: -1
+冷_目_ピンク5
+  rotate: false
+  xy: 3207, 367
+  size: 41, 23
+  orig: 43, 26
+  offset: 1, 2
+  index: -1
+冷_目_赤2
+  rotate: true
+  xy: 4056, 613
+  size: 41, 23
+  orig: 43, 26
+  offset: 1, 2
+  index: -1
+冷_目_金4
+  rotate: true
+  xy: 4015, 370
+  size: 41, 23
+  orig: 43, 26
+  offset: 1, 2
+  index: -1
+冷_目_黒赤メッシュ1
+  rotate: false
+  xy: 3997, 255
+  size: 41, 23
+  orig: 43, 26
+  offset: 1, 2
+  index: -1
+冷_目_黒黄メッシュ3
+  rotate: false
+  xy: 3997, 230
+  size: 41, 23
+  orig: 43, 26
+  offset: 1, 2
+  index: -1
+冷_眉
+  rotate: true
+  xy: 2158, 733
+  size: 37, 20
+  orig: 40, 23
+  offset: 2, 1
+  index: -1
+冷_胸リボン赤
+  rotate: false
+  xy: 3958, 193
+  size: 32, 35
+  orig: 33, 36
+  offset: 0, 1
+  index: -1
+冷_落ちカゲ
+  rotate: false
+  xy: 3250, 354
+  size: 96, 69
+  orig: 99, 72
+  offset: 2, 2
+  index: -1
+冷_裸_胴体
+  rotate: false
+  xy: 2737, 69
+  size: 74, 138
+  orig: 75, 138
+  offset: 1, 0
+  index: -1
+冷_裸_胴体_褐色
+  rotate: true
+  xy: 2944, 783
+  size: 74, 138
+  orig: 75, 138
+  offset: 1, 0
+  index: -1
+冷_裸_脚
+  rotate: false
+  xy: 3493, 935
+  size: 140, 114
+  orig: 140, 115
+  offset: 0, 1
+  index: -1
+冷_裸_脚_褐色
+  rotate: false
+  xy: 2615, 888
+  size: 140, 114
+  orig: 140, 115
+  offset: 0, 1
+  index: -1
+冷_裸_腕L
+  rotate: false
+  xy: 2944, 696
+  size: 136, 85
+  orig: 138, 89
+  offset: 1, 2
+  index: -1
+冷_裸_腕L_褐色
+  rotate: false
+  xy: 3084, 756
+  size: 136, 85
+  orig: 138, 89
+  offset: 1, 2
+  index: -1
+冷_裸_腕R
+  rotate: true
+  xy: 3411, 750
+  size: 42, 88
+  orig: 43, 88
+  offset: 1, 0
+  index: -1
+冷_裸_腕R_褐色
+  rotate: true
+  xy: 2379, 1091
+  size: 42, 88
+  orig: 43, 88
+  offset: 1, 0
+  index: -1
+冷_髪_ピンク5
+  rotate: false
+  xy: 3344, 502
+  size: 84, 106
+  orig: 89, 106
+  offset: 5, 0
+  index: -1
+冷_髪_赤2
+  rotate: false
+  xy: 3151, 3
+  size: 76, 82
+  orig: 83, 83
+  offset: 6, 1
+  index: -1
+冷_髪_金4
+  rotate: false
+  xy: 2904, 69
+  size: 89, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+冷_髪_黒赤メッシュ1
+  rotate: true
+  xy: 2615, 785
+  size: 101, 130
+  orig: 101, 131
+  offset: 0, 1
+  index: -1
+冷_髪_黒黄メッシュ3
+  rotate: false
+  xy: 3127, 87
+  size: 77, 95
+  orig: 78, 97
+  offset: 1, 1
+  index: -1
+寝H_ピアス_ピンク5
+  rotate: false
+  xy: 3414, 1063
+  size: 7, 9
+  orig: 9, 11
+  offset: 1, 1
+  index: -1
+寝H_ピアス_赤2
+  rotate: true
+  xy: 3485, 1234
+  size: 7, 6
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+寝スマ_ピアス_赤2
+  rotate: true
+  xy: 3485, 1234
+  size: 7, 6
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+寝H_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3931, 523
+  size: 14, 19
+  orig: 16, 21
+  offset: 1, 1
+  index: -1
+寝スマ_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3931, 523
+  size: 14, 19
+  orig: 16, 21
+  offset: 1, 1
+  index: -1
+寝H_上半身
+  rotate: false
+  xy: 2200, 204
+  size: 157, 138
+  orig: 292, 245
+  offset: 135, 107
+  index: -1
+寝H_上半身_褐色
+  rotate: true
+  xy: 2947, 1237
+  size: 157, 138
+  orig: 292, 245
+  offset: 135, 107
+  index: -1
+寝H_下半身
+  rotate: true
+  xy: 3222, 753
+  size: 79, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+寝H_下半身_褐色
+  rotate: true
+  xy: 3082, 675
+  size: 79, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+寝H_制服_胴体
+  rotate: false
+  xy: 2470, 331
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+寝H_制服_靴下
+  rotate: false
+  xy: 3695, 484
+  size: 70, 52
+  orig: 71, 52
+  offset: 1, 0
+  index: -1
+寝H_男_チンコ
+  rotate: false
+  xy: 1822, 2
+  size: 63, 21
+  orig: 65, 23
+  offset: 1, 1
+  index: -1
+寝H_男_チンコモザイク
+  rotate: false
+  xy: 2007, 2
+  size: 68, 24
+  orig: 70, 26
+  offset: 1, 1
+  index: -1
+寝H_男_上半身
+  rotate: false
+  xy: 3563, 1434
+  size: 156, 178
+  orig: 156, 178
+  offset: 0, 0
+  index: -1
+寝H_男_下半身
+  rotate: false
+  xy: 2887, 1507
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+寝H_男_下半身脚L
+  rotate: true
+  xy: 3104, 914
+  size: 84, 152
+  orig: 206, 206
+  offset: 122, 54
+  index: -1
+寝H_男_下半身脚R
+  rotate: false
+  xy: 2795, 1098
+  size: 150, 48
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+寝H_男_腕L
+  rotate: true
+  xy: 2944, 859
+  size: 74, 151
+  orig: 75, 151
+  offset: 0, 0
+  index: -1
+寝H_目_ピンク5
+  rotate: false
+  xy: 2595, 1139
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目_ピンク5
+  rotate: false
+  xy: 2595, 1139
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_目_寝H_目_黒赤メッシュ1
+  rotate: false
+  xy: 2875, 1442
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目_黒赤メッシュ1
+  rotate: false
+  xy: 2875, 1442
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_目_赤2
+  rotate: false
+  xy: 3967, 775
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目_赤2
+  rotate: false
+  xy: 3967, 775
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_目_金4
+  rotate: false
+  xy: 1734, 741
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目_金4
+  rotate: false
+  xy: 1734, 741
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_目_黒黄メッシュ3
+  rotate: false
+  xy: 2607, 1139
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目_黒黄メッシュ3
+  rotate: false
+  xy: 2607, 1139
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_目閉じ
+  rotate: true
+  xy: 2743, 651
+  size: 11, 6
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝スマ_目閉じ
+  rotate: true
+  xy: 2743, 651
+  size: 11, 6
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+寝H_眉
+  rotate: false
+  xy: 4000, 70
+  size: 7, 2
+  orig: 9, 4
+  offset: 1, 1
+  index: -1
+寝H_眉困り
+  rotate: false
+  xy: 3610, 779
+  size: 7, 7
+  orig: 13, 8
+  offset: 3, 1
+  index: -1
+寝スマ_眉困り
+  rotate: false
+  xy: 3610, 779
+  size: 7, 7
+  orig: 13, 8
+  offset: 3, 1
+  index: -1
+寝H_脚ひざ下R
+  rotate: false
+  xy: 2564, 2
+  size: 95, 50
+  orig: 96, 50
+  offset: 1, 0
+  index: -1
+寝H_脚ひざ下R_褐色
+  rotate: true
+  xy: 2892, 811
+  size: 95, 50
+  orig: 96, 50
+  offset: 1, 0
+  index: -1
+寝H_落ちカゲ
+  rotate: false
+  xy: 2625, 1483
+  size: 260, 197
+  orig: 261, 197
+  offset: 1, 0
+  index: -1
+寝H_裸_腕R
+  rotate: true
+  xy: 3027, 284
+  size: 93, 102
+  orig: 93, 103
+  offset: 0, 1
+  index: -1
+寝H_裸_腕R_褐色
+  rotate: false
+  xy: 3430, 501
+  size: 93, 102
+  orig: 93, 103
+  offset: 0, 1
+  index: -1
+寝H_髪_ツインテ手前_ピンク5
+  rotate: false
+  xy: 3312, 2
+  size: 72, 84
+  orig: 74, 86
+  offset: 2, 0
+  index: -1
+寝H_髪_ピンク
+  rotate: true
+  xy: 3611, 538
+  size: 59, 81
+  orig: 60, 82
+  offset: 1, 0
+  index: -1
+寝スマ_髪下_ピンク5
+  rotate: true
+  xy: 3611, 538
+  size: 59, 81
+  orig: 60, 82
+  offset: 1, 0
+  index: -1
+寝H_髪_赤2
+  rotate: false
+  xy: 3368, 90
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+寝H_髪_金4
+  rotate: false
+  xy: 2643, 207
+  size: 81, 109
+  orig: 83, 110
+  offset: 2, 0
+  index: -1
+寝H_髪_頭_ピンク5
+  rotate: false
+  xy: 2524, 1087
+  size: 69, 62
+  orig: 80, 65
+  offset: 1, 0
+  index: -1
+寝H_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2345, 441
+  size: 117, 141
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+寝スマ_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2345, 441
+  size: 117, 141
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+寝H_髪_黒黄メッシュ3
+  rotate: true
+  xy: 2795, 1001
+  size: 95, 147
+  orig: 96, 150
+  offset: 0, 1
+  index: -1
+寝スマ_スマホ
+  rotate: false
+  xy: 3601, 788
+  size: 35, 34
+  orig: 39, 36
+  offset: 1, 1
+  index: -1
+寝スマ_スマホスクロール用1
+  rotate: false
+  xy: 4040, 231
+  size: 32, 32
+  orig: 39, 36
+  offset: 2, 3
+  index: -1
+寝スマ_スマホスクロール用2
+  rotate: false
+  xy: 3946, 70
+  size: 31, 32
+  orig: 39, 36
+  offset: 2, 3
+  index: -1
+寝スマ_スマホスクロール用3
+  rotate: false
+  xy: 4048, 89
+  size: 31, 32
+  orig: 39, 36
+  offset: 2, 3
+  index: -1
+寝スマ_制服_スカート
+  rotate: true
+  xy: 3444, 251
+  size: 78, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+寝スマ_制服_胴体
+  rotate: false
+  xy: 2644, 447
+  size: 103, 83
+  orig: 113, 128
+  offset: 0, 0
+  index: -1
+寝スマ_制服_腕
+  rotate: false
+  xy: 3532, 210
+  size: 69, 35
+  orig: 113, 128
+  offset: 22, 56
+  index: -1
+寝スマ_制服_靴下上
+  rotate: false
+  xy: 3104, 1115
+  size: 153, 124
+  orig: 153, 144
+  offset: 0, 20
+  index: -1
+寝スマ_制服_靴下下
+  rotate: false
+  xy: 3878, 1011
+  size: 96, 128
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+寝スマ_男_制服_シャツ
+  rotate: true
+  xy: 3638, 827
+  size: 118, 97
+  orig: 119, 98
+  offset: 1, 0
+  index: -1
+寝スマ_男_制服_ズボン
+  rotate: false
+  xy: 1948, 547
+  size: 187, 184
+  orig: 188, 184
+  offset: 1, 0
+  index: -1
+寝スマ_男_制服_ズボン_脚上ひざ下
+  rotate: false
+  xy: 3497, 126
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+寝スマ_男_制服_腕R_股間弄り袖
+  rotate: true
+  xy: 3961, 540
+  size: 68, 39
+  orig: 70, 40
+  offset: 1, 0
+  index: -1
+寝スマ_男_制服_腕R_胸揉み袖
+  rotate: true
+  xy: 1658, 1338
+  size: 67, 39
+  orig: 70, 40
+  offset: 2, 0
+  index: -1
+寝スマ_男_落ちカゲ
+  rotate: false
+  xy: 1169, 290
+  size: 311, 210
+  orig: 313, 211
+  offset: 1, 0
+  index: -1
+寝スマ_男_裸_胴体
+  rotate: true
+  xy: 899, 231
+  size: 351, 268
+  orig: 352, 269
+  offset: 1, 1
+  index: -1
+寝スマ_男_裸_脚上ひざ下
+  rotate: true
+  xy: 2944, 634
+  size: 60, 136
+  orig: 60, 138
+  offset: 0, 1
+  index: -1
+寝スマ_男_裸_腕R_股間弄り
+  rotate: false
+  xy: 3082, 641
+  size: 135, 32
+  orig: 135, 33
+  offset: 0, 1
+  index: -1
+寝スマ_男_裸_腕R_胸揉み
+  rotate: false
+  xy: 3032, 379
+  size: 118, 45
+  orig: 121, 46
+  offset: 1, 0
+  index: -1
+寝スマ_眉
+  rotate: true
+  xy: 3788, 108
+  size: 9, 3
+  orig: 12, 5
+  offset: 1, 1
+  index: -1
+寝スマ_肌
+  rotate: true
+  xy: 2426, 1163
+  size: 135, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+寝スマ_肌_褐色
+  rotate: false
+  xy: 3220, 668
+  size: 135, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+寝スマ_落ちカゲ
+  rotate: false
+  xy: 899, 2
+  size: 279, 227
+  orig: 279, 228
+  offset: 0, 1
+  index: -1
+寝スマ_裸_脚上
+  rotate: false
+  xy: 3259, 1108
+  size: 153, 124
+  orig: 153, 144
+  offset: 0, 20
+  index: -1
+寝スマ_裸_脚上_褐色
+  rotate: false
+  xy: 3493, 1133
+  size: 153, 124
+  orig: 153, 144
+  offset: 0, 20
+  index: -1
+寝スマ_裸_脚下
+  rotate: false
+  xy: 3878, 881
+  size: 96, 128
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+寝スマ_裸_脚下_褐色
+  rotate: false
+  xy: 2751, 697
+  size: 96, 128
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+寝スマ_髪_ピンク5
+  rotate: true
+  xy: 3734, 686
+  size: 79, 88
+  orig: 80, 92
+  offset: 1, 1
+  index: -1
+寝スマ_髪_赤2
+  rotate: true
+  xy: 3767, 462
+  size: 69, 79
+  orig: 71, 81
+  offset: 1, 1
+  index: -1
+寝スマ_髪_金4
+  rotate: false
+  xy: 2846, 210
+  size: 82, 108
+  orig: 83, 110
+  offset: 1, 0
+  index: -1
+寝スマ_髪_黒黄メッシュ3
+  rotate: true
+  xy: 2795, 1148
+  size: 96, 150
+  orig: 96, 150
+  offset: 0, 0
+  index: -1
+対座_スカート
+  rotate: true
+  xy: 3912, 247
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+対座_ピアス_黒赤メッシュ1
+  rotate: false
+  xy: 2747, 858
+  size: 8, 28
+  orig: 12, 31
+  offset: 2, 1
+  index: -1
+対座_上半身
+  rotate: true
+  xy: 3104, 1031
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+対座_上半身_褐色
+  rotate: true
+  xy: 3259, 1024
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+対座_下半身
+  rotate: false
+  xy: 2363, 2
+  size: 137, 55
+  orig: 150, 85
+  offset: 1, 30
+  index: -1
+対座_下半身_褐色
+  rotate: false
+  xy: 3219, 611
+  size: 137, 55
+  orig: 150, 85
+  offset: 1, 30
+  index: -1
+対座_口
+  rotate: false
+  xy: 2492, 59
+  size: 5, 4
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+対座_口開け
+  rotate: false
+  xy: 2292, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+対座_男_胴体
+  rotate: false
+  xy: 1184, 771
+  size: 300, 332
+  orig: 303, 332
+  offset: 1, 0
+  index: -1
+対座_男_腕R
+  rotate: true
+  xy: 3097, 843
+  size: 69, 139
+  orig: 69, 141
+  offset: 0, 2
+  index: -1
+対座_男_落ちカゲ
+  rotate: false
+  xy: 1180, 87
+  size: 301, 201
+  orig: 301, 201
+  offset: 0, 0
+  index: -1
+対座_目_ピンク5
+  rotate: false
+  xy: 2422, 584
+  size: 16, 13
+  orig: 19, 16
+  offset: 1, 2
+  index: -1
+対座_目_赤2
+  rotate: true
+  xy: 1169, 539
+  size: 16, 13
+  orig: 19, 16
+  offset: 1, 2
+  index: -1
+対座_目_金4
+  rotate: false
+  xy: 2440, 584
+  size: 16, 13
+  orig: 19, 16
+  offset: 1, 2
+  index: -1
+対座_目_黒赤メッシュ1
+  rotate: true
+  xy: 3095, 1697
+  size: 16, 12
+  orig: 19, 15
+  offset: 1, 2
+  index: -1
+対座_目_黒黄メッシュ3
+  rotate: true
+  xy: 1169, 521
+  size: 16, 13
+  orig: 19, 16
+  offset: 1, 2
+  index: -1
+対座_目閉じ
+  rotate: false
+  xy: 3360, 824
+  size: 16, 8
+  orig: 19, 16
+  offset: 1, 1
+  index: -1
+対座_眉
+  rotate: true
+  xy: 3493, 794
+  size: 15, 6
+  orig: 17, 9
+  offset: 1, 2
+  index: -1
+対座_眉困り
+  rotate: true
+  xy: 3485, 1243
+  size: 14, 6
+  orig: 17, 9
+  offset: 1, 2
+  index: -1
+対座_脚L_ひざ下
+  rotate: true
+  xy: 3635, 947
+  size: 97, 100
+  orig: 99, 102
+  offset: 0, 1
+  index: -1
+対座_脚R
+  rotate: false
+  xy: 3829, 758
+  size: 47, 63
+  orig: 77, 66
+  offset: 30, 0
+  index: -1
+対座_脚R_褐色
+  rotate: false
+  xy: 2595, 1074
+  size: 47, 63
+  orig: 77, 66
+  offset: 30, 0
+  index: -1
+対座_脚ひざ下L_褐色
+  rotate: true
+  xy: 3976, 883
+  size: 97, 100
+  orig: 99, 102
+  offset: 0, 1
+  index: -1
+対座_腕L
+  rotate: true
+  xy: 2723, 319
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+対座_腕L_褐色
+  rotate: true
+  xy: 2773, 320
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+対座_腕R
+  rotate: true
+  xy: 3960, 409
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+対座_腕R_褐色
+  rotate: true
+  xy: 3959, 261
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+対座_靴下L
+  rotate: true
+  xy: 3357, 668
+  size: 80, 71
+  orig: 83, 72
+  offset: 1, 1
+  index: -1
+対座_靴下R
+  rotate: false
+  xy: 2566, 947
+  size: 47, 61
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+対座_髪_ツインテ奥_ピンク5
+  rotate: true
+  xy: 2200, 174
+  size: 28, 79
+  orig: 28, 80
+  offset: 0, 0
+  index: -1
+対座_髪_ツインテ手前_ピンク5
+  rotate: false
+  xy: 3686, 1332
+  size: 33, 100
+  orig: 33, 102
+  offset: 0, 1
+  index: -1
+対座_髪_ツインテ頭_ピンク5
+  rotate: false
+  xy: 3768, 600
+  size: 71, 84
+  orig: 71, 86
+  offset: 0, 1
+  index: -1
+対座_髪_赤2
+  rotate: false
+  xy: 3344, 426
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+対座_髪_金4
+  rotate: true
+  xy: 3348, 335
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+対座_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2307, 921
+  size: 102, 168
+  orig: 104, 168
+  offset: 1, 0
+  index: -1
+対座_髪_黒黄メッシュ3
+  rotate: false
+  xy: 2549, 609
+  size: 80, 161
+  orig: 80, 161
+  offset: 0, 0
+  index: -1
+断面ちんこ
+  rotate: true
+  xy: 3603, 164
+  size: 81, 27
+  orig: 179, 164
+  offset: 37, 75
+  index: -1
+断面ちんこモザイク
+  rotate: true
+  xy: 3845, 828
+  size: 86, 31
+  orig: 179, 164
+  offset: 34, 73
+  index: -1
+断面ちんこモザイクトイレ用
+  rotate: true
+  xy: 3845, 828
+  size: 86, 31
+  orig: 179, 164
+  offset: 34, 73
+  index: -1
+断面ちんこモザイク座位用
+  rotate: true
+  xy: 3845, 828
+  size: 86, 31
+  orig: 179, 164
+  offset: 34, 73
+  index: -1
+断面図精液射精1
+  rotate: true
+  xy: 3599, 90
+  size: 42, 18
+  orig: 179, 164
+  offset: 115, 81
+  index: -1
+断面図精液射精1トイレ用
+  rotate: true
+  xy: 3599, 90
+  size: 42, 18
+  orig: 179, 164
+  offset: 115, 81
+  index: -1
+断面図精液射精1座位用
+  rotate: true
+  xy: 3599, 90
+  size: 42, 18
+  orig: 179, 164
+  offset: 115, 81
+  index: -1
+断面図精液射精2
+  rotate: false
+  xy: 4005, 476
+  size: 43, 16
+  orig: 179, 164
+  offset: 115, 84
+  index: -1
+断面図精液射精2トイレ用
+  rotate: false
+  xy: 4005, 476
+  size: 43, 16
+  orig: 179, 164
+  offset: 115, 84
+  index: -1
+断面図精液射精2座位用
+  rotate: false
+  xy: 4005, 476
+  size: 43, 16
+  orig: 179, 164
+  offset: 115, 84
+  index: -1
+断面図精液射精3
+  rotate: true
+  xy: 4065, 1297
+  size: 43, 14
+  orig: 179, 164
+  offset: 115, 86
+  index: -1
+断面図精液射精3トイレ用
+  rotate: true
+  xy: 4065, 1297
+  size: 43, 14
+  orig: 179, 164
+  offset: 115, 86
+  index: -1
+断面図精液射精3座位用
+  rotate: true
+  xy: 4065, 1297
+  size: 43, 14
+  orig: 179, 164
+  offset: 115, 86
+  index: -1
+断面図精液溜まり
+  rotate: true
+  xy: 1887, 8
+  size: 15, 59
+  orig: 179, 164
+  offset: 115, 59
+  index: -1
+断面図精液溜まりトイレ用
+  rotate: true
+  xy: 1887, 8
+  size: 15, 59
+  orig: 179, 164
+  offset: 115, 59
+  index: -1
+断面図精液溜まり座位用
+  rotate: true
+  xy: 1887, 8
+  size: 15, 59
+  orig: 179, 164
+  offset: 115, 59
+  index: -1
+断面子宮
+  rotate: false
+  xy: 3977, 352
+  size: 36, 55
+  orig: 179, 164
+  offset: 113, 61
+  index: -1
+断面子宮トイレ用
+  rotate: false
+  xy: 3977, 352
+  size: 36, 55
+  orig: 179, 164
+  offset: 113, 61
+  index: -1
+断面子宮座位用
+  rotate: false
+  xy: 3977, 352
+  size: 36, 55
+  orig: 179, 164
+  offset: 113, 61
+  index: -1
+断面膣下地
+  rotate: true
+  xy: 3871, 1141
+  size: 106, 119
+  orig: 179, 164
+  offset: 54, 27
+  index: -1
+断面膣下地トイレ用
+  rotate: true
+  xy: 3871, 1141
+  size: 106, 119
+  orig: 179, 164
+  offset: 54, 27
+  index: -1
+断面膣下地座位用
+  rotate: true
+  xy: 3871, 1141
+  size: 106, 119
+  orig: 179, 164
+  offset: 54, 27
+  index: -1
+断面膣肉上
+  rotate: false
+  xy: 3238, 834
+  size: 139, 69
+  orig: 179, 164
+  offset: 24, 80
+  index: -1
+断面膣肉上トイレ用
+  rotate: false
+  xy: 3238, 834
+  size: 139, 69
+  orig: 179, 164
+  offset: 24, 80
+  index: -1
+断面膣肉上座位用
+  rotate: false
+  xy: 3238, 834
+  size: 139, 69
+  orig: 179, 164
+  offset: 24, 80
+  index: -1
+断面膣肉下
+  rotate: true
+  xy: 3423, 932
+  size: 140, 68
+  orig: 179, 164
+  offset: 22, 27
+  index: -1
+断面膣肉下トイレ用
+  rotate: true
+  xy: 3423, 932
+  size: 140, 68
+  orig: 179, 164
+  offset: 22, 27
+  index: -1
+断面膣肉下座位用
+  rotate: true
+  xy: 3423, 932
+  size: 140, 68
+  orig: 179, 164
+  offset: 22, 27
+  index: -1
+漫_チョーカー
+  rotate: false
+  xy: 2849, 811
+  size: 21, 14
+  orig: 25, 18
+  offset: 2, 3
+  index: -1
+漫_ピアス_ピンク5
+  rotate: false
+  xy: 601, 148
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+立バ_ピアス_ピンク5
+  rotate: false
+  xy: 601, 148
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+退_ピアス_ピンク5
+  rotate: false
+  xy: 601, 148
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+食_ピアス_ピンク5
+  rotate: false
+  xy: 601, 148
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+漫_ピアス_赤2
+  rotate: false
+  xy: 2875, 1420
+  size: 10, 8
+  orig: 12, 10
+  offset: 1, 1
+  index: -1
+漫_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3799, 1895
+  size: 6, 20
+  orig: 8, 22
+  offset: 1, 1
+  index: -1
+漫_制服_スカート
+  rotate: false
+  xy: 3692, 245
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+漫_制服_スカートカゲ
+  rotate: false
+  xy: 3496, 1436
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+漫_制服_胴体
+  rotate: false
+  xy: 2433, 772
+  size: 90, 160
+  orig: 90, 178
+  offset: 0, 18
+  index: -1
+漫_制服_胴体_褐色
+  rotate: true
+  xy: 2944, 935
+  size: 88, 158
+  orig: 90, 178
+  offset: 1, 19
+  index: -1
+漫_制服_胴体のみ
+  rotate: false
+  xy: 2464, 446
+  size: 88, 160
+  orig: 88, 178
+  offset: 0, 18
+  index: -1
+漫_制服_腕R_袖
+  rotate: false
+  xy: 3294, 272
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+漫_制服_靴下L
+  rotate: false
+  xy: 3032, 465
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+漫_制服_靴下R
+  rotate: true
+  xy: 3734, 767
+  size: 54, 93
+  orig: 74, 102
+  offset: 20, 2
+  index: -1
+漫_本
+  rotate: false
+  xy: 3358, 610
+  size: 70, 56
+  orig: 73, 58
+  offset: 0, 2
+  index: -1
+漫_本ウラ
+  rotate: true
+  xy: 3844, 73
+  size: 38, 42
+  orig: 73, 58
+  offset: 26, 6
+  index: -1
+漫_本ページめくり用
+  rotate: false
+  xy: 3553, 90
+  size: 44, 42
+  orig: 73, 58
+  offset: 0, 16
+  index: -1
+漫_男_L腕_制服
+  rotate: true
+  xy: 1744, 2
+  size: 38, 76
+  orig: 38, 77
+  offset: 0, 1
+  index: -1
+漫_男_共通_制服
+  rotate: false
+  xy: 2056, 770
+  size: 98, 344
+  orig: 98, 344
+  offset: 0, 0
+  index: -1
+漫_男_制服_かぶせ
+  rotate: false
+  xy: 4023, 1251
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+漫_男_制服_腕R
+  rotate: false
+  xy: 2889, 908
+  size: 53, 91
+  orig: 53, 93
+  offset: 0, 1
+  index: -1
+漫_男_制服_腕R胸揉み用
+  rotate: false
+  xy: 2889, 908
+  size: 53, 91
+  orig: 53, 93
+  offset: 0, 1
+  index: -1
+漫_目_ピンク
+  rotate: true
+  xy: 2522, 934
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+漫_目_金
+  rotate: false
+  xy: 2747, 828
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+漫_目_黒黄メッシュ
+  rotate: true
+  xy: 2537, 934
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+漫_目閉じ
+  rotate: false
+  xy: 3483, 1362
+  size: 10, 7
+  orig: 10, 15
+  offset: 0, 2
+  index: -1
+漫_眉困り
+  rotate: false
+  xy: 2190, 336
+  size: 7, 6
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+漫_腕R
+  rotate: false
+  xy: 3229, 3
+  size: 81, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+漫_腕R_褐色
+  rotate: false
+  xy: 3285, 88
+  size: 81, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+漫_裸_上半身
+  rotate: false
+  xy: 2525, 772
+  size: 88, 160
+  orig: 88, 178
+  offset: 0, 18
+  index: -1
+漫_裸_上半身_褐色
+  rotate: false
+  xy: 2554, 447
+  size: 88, 160
+  orig: 88, 178
+  offset: 0, 18
+  index: -1
+漫_裸_脚L
+  rotate: true
+  xy: 3721, 1309
+  size: 58, 170
+  orig: 64, 171
+  offset: 0, 1
+  index: -1
+漫_裸_脚L_褐色
+  rotate: true
+  xy: 3893, 1282
+  size: 58, 170
+  orig: 64, 171
+  offset: 0, 1
+  index: -1
+漫_裸_脚R
+  rotate: true
+  xy: 3362, 1619
+  size: 88, 248
+  orig: 88, 249
+  offset: 0, 1
+  index: -1
+漫_裸_脚R_褐色
+  rotate: true
+  xy: 2625, 1393
+  size: 88, 248
+  orig: 88, 249
+  offset: 0, 1
+  index: -1
+漫_足元カゲ
+  rotate: true
+  xy: 3848, 511
+  size: 87, 48
+  orig: 89, 51
+  offset: 1, 1
+  index: -1
+漫_髪_ピンク5
+  rotate: false
+  xy: 3542, 330
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+漫_髪_赤2
+  rotate: true
+  xy: 3611, 599
+  size: 86, 75
+  orig: 87, 76
+  offset: 1, 1
+  index: -1
+漫_髪_金4
+  rotate: false
+  xy: 3202, 258
+  size: 90, 94
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+漫_髪_黒赤メッシュ1
+  rotate: true
+  xy: 3290, 1288
+  size: 81, 191
+  orig: 90, 191
+  offset: 9, 0
+  index: -1
+漫_髪_黒黄メッシュ3
+  rotate: false
+  xy: 2460, 608
+  size: 87, 162
+  orig: 89, 162
+  offset: 2, 0
+  index: -1
+立バ_チョーカー
+  rotate: true
+  xy: 880, 52
+  size: 24, 17
+  orig: 27, 21
+  offset: 2, 2
+  index: -1
+立バ_ピアス_赤2
+  rotate: false
+  xy: 1169, 279
+  size: 9, 9
+  orig: 12, 11
+  offset: 1, 1
+  index: -1
+立バ_ピアス_黒黄メッシュ3
+  rotate: true
+  xy: 3285, 172
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+立バ_便器_落ち影
+  rotate: false
+  xy: 1836, 25
+  size: 169, 199
+  orig: 170, 218
+  offset: 0, 0
+  index: -1
+立バ_制服_胴体
+  rotate: false
+  xy: 2124, 1338
+  size: 101, 152
+  orig: 104, 153
+  offset: 0, 1
+  index: -1
+立バ_制服_腕R
+  rotate: true
+  xy: 3958, 476
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+立バ_口
+  rotate: true
+  xy: 2859, 1682
+  size: 6, 7
+  orig: 9, 11
+  offset: 1, 1
+  index: -1
+立バ_口大
+  rotate: true
+  xy: 2875, 1410
+  size: 8, 10
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+立バ_手L
+  rotate: false
+  xy: 4029, 416
+  size: 35, 58
+  orig: 37, 60
+  offset: 0, 1
+  index: -1
+立バ_手L_褐色
+  rotate: true
+  xy: 3888, 106
+  size: 35, 58
+  orig: 37, 60
+  offset: 0, 1
+  index: -1
+立バ_男_胴体
+  rotate: true
+  xy: 1706, 1338
+  size: 152, 416
+  orig: 152, 416
+  offset: 0, 0
+  index: -1
+立バ_男_胴体シャワー用水滴
+  rotate: true
+  xy: 3389, 1917
+  size: 152, 416
+  orig: 152, 416
+  offset: 0, 0
+  index: -1
+立バ_目_ピンク5
+  rotate: true
+  xy: 3521, 90
+  size: 34, 30
+  orig: 37, 32
+  offset: 2, 1
+  index: -1
+立バ_目_赤2
+  rotate: true
+  xy: 4049, 195
+  size: 34, 30
+  orig: 37, 32
+  offset: 2, 1
+  index: -1
+立バ_目_金4
+  rotate: true
+  xy: 4049, 159
+  size: 34, 30
+  orig: 37, 32
+  offset: 2, 1
+  index: -1
+立バ_目_黒赤メッシュ1
+  rotate: false
+  xy: 3729, 24
+  size: 34, 30
+  orig: 37, 32
+  offset: 2, 1
+  index: -1
+立バ_目_黒黄メッシュ3
+  rotate: true
+  xy: 4049, 123
+  size: 34, 30
+  orig: 37, 32
+  offset: 2, 1
+  index: -1
+立バ_目閉じ
+  rotate: true
+  xy: 1836, 237
+  size: 33, 28
+  orig: 37, 32
+  offset: 4, 0
+  index: -1
+立バ_眉
+  rotate: false
+  xy: 3603, 134
+  size: 31, 28
+  orig: 33, 31
+  offset: 1, 2
+  index: -1
+立バ_眉困り
+  rotate: true
+  xy: 3802, 19
+  size: 29, 28
+  orig: 33, 31
+  offset: 2, 2
+  index: -1
+立バ_胴体
+  rotate: true
+  xy: 2256, 1456
+  size: 220, 367
+  orig: 220, 367
+  offset: 0, 0
+  index: -1
+立バ_胴体_褐色
+  rotate: false
+  xy: 1486, 736
+  size: 220, 367
+  orig: 220, 367
+  offset: 0, 0
+  index: -1
+立バ_胴体シャワー用水滴
+  rotate: true
+  xy: 1658, 1116
+  size: 220, 367
+  orig: 220, 367
+  offset: 0, 0
+  index: -1
+立バ_腕R
+  rotate: false
+  xy: 2849, 685
+  size: 93, 124
+  orig: 93, 126
+  offset: 0, 2
+  index: -1
+立バ_落ちカゲ
+  rotate: true
+  xy: 3976, 982
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+立バ_足元カゲ
+  rotate: false
+  xy: 3721, 1464
+  size: 178, 145
+  orig: 189, 151
+  offset: 5, 3
+  index: -1
+立バ_髪_ツインテ手前_ピンク5
+  rotate: false
+  xy: 3299, 172
+  size: 47, 98
+  orig: 48, 101
+  offset: 1, 1
+  index: -1
+立バ_髪_ポニテ_黒黄メッシュ3
+  rotate: true
+  xy: 3219, 557
+  size: 52, 123
+  orig: 52, 123
+  offset: 0, 0
+  index: -1
+立バ_髪_赤2
+  rotate: false
+  xy: 3386, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+立バ_髪_金4
+  rotate: true
+  xy: 3737, 823
+  size: 91, 106
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+立バ_髪_頭_ピンク5
+  rotate: true
+  xy: 3202, 184
+  size: 72, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+立バ_髪_頭_黒黄メッシュ3
+  rotate: false
+  xy: 3692, 325
+  size: 73, 81
+  orig: 73, 95
+  offset: 0, 14
+  index: -1
+立バ_髪_黒赤メッシュ1
+  rotate: true
+  xy: 3897, 1342
+  size: 116, 173
+  orig: 117, 173
+  offset: 0, 0
+  index: -1
+立バ_髪奥_ピンク5
+  rotate: false
+  xy: 2995, 71
+  size: 41, 99
+  orig: 45, 103
+  offset: 3, 2
+  index: -1
+退_チョーカー
+  rotate: true
+  xy: 2631, 639
+  size: 23, 11
+  orig: 25, 13
+  offset: 1, 1
+  index: -1
+退_ピアス_赤2
+  rotate: false
+  xy: 1699, 1394
+  size: 5, 11
+  orig: 7, 13
+  offset: 1, 1
+  index: -1
+退_ピアス_黒黄メッシュ3
+  rotate: true
+  xy: 3259, 1234
+  size: 5, 13
+  orig: 7, 15
+  offset: 1, 1
+  index: -1
+退_制服_スカート
+  rotate: true
+  xy: 3773, 248
+  size: 78, 73
+  orig: 79, 74
+  offset: 0, 1
+  index: -1
+退_制服_スカートカゲ
+  rotate: false
+  xy: 3890, 143
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+退_制服_スカートカゲ_褐色
+  rotate: true
+  xy: 3998, 413
+  size: 61, 29
+  orig: 63, 31
+  offset: 1, 1
+  index: -1
+退_制服_胸リボン赤
+  rotate: true
+  xy: 2173, 1300
+  size: 36, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+退_制服_腕L_袖
+  rotate: true
+  xy: 3441, 90
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+退_制服_腕R_袖
+  rotate: true
+  xy: 2846, 172
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+退_制服_靴下L
+  rotate: false
+  xy: 3843, 167
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+退_制服_靴下R
+  rotate: true
+  xy: 1481, 2
+  size: 38, 88
+  orig: 39, 88
+  offset: 1, 0
+  index: -1
+退_制服のみ_胴体
+  rotate: false
+  xy: 2930, 279
+  size: 95, 102
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+退_口
+  rotate: false
+  xy: 2464, 441
+  size: 4, 3
+  orig: 7, 6
+  offset: 1, 2
+  index: -1
+退_目_ピンク5
+  rotate: false
+  xy: 3675, 1311
+  size: 41, 19
+  orig: 43, 21
+  offset: 1, 1
+  index: -1
+退_目_赤2
+  rotate: false
+  xy: 3732, 56
+  size: 41, 19
+  orig: 43, 21
+  offset: 1, 1
+  index: -1
+退_目_金4
+  rotate: false
+  xy: 3844, 52
+  size: 41, 19
+  orig: 43, 21
+  offset: 1, 1
+  index: -1
+退_目_黒赤メッシュ1
+  rotate: true
+  xy: 880, 117
+  size: 40, 17
+  orig: 42, 19
+  offset: 1, 1
+  index: -1
+退_目_黒黄メッシュ3
+  rotate: false
+  xy: 3887, 50
+  size: 41, 19
+  orig: 43, 21
+  offset: 1, 1
+  index: -1
+退_眉
+  rotate: true
+  xy: 4062, 555
+  size: 37, 15
+  orig: 42, 18
+  offset: 2, 2
+  index: -1
+退_裸_胴体
+  rotate: true
+  xy: 3293, 1371
+  size: 90, 201
+  orig: 90, 201
+  offset: 0, 0
+  index: -1
+退_裸_胴体_褐色
+  rotate: true
+  xy: 3087, 1285
+  size: 90, 201
+  orig: 90, 201
+  offset: 0, 0
+  index: -1
+退_裸_脚L
+  rotate: true
+  xy: 3485, 1259
+  size: 47, 193
+  orig: 47, 193
+  offset: 0, 0
+  index: -1
+退_裸_脚L_褐色
+  rotate: true
+  xy: 3680, 1260
+  size: 47, 193
+  orig: 47, 193
+  offset: 0, 0
+  index: -1
+退_裸_脚R
+  rotate: true
+  xy: 2173, 1091
+  size: 42, 204
+  orig: 42, 204
+  offset: 0, 0
+  index: -1
+退_裸_脚R_褐色
+  rotate: true
+  xy: 3087, 1241
+  size: 42, 204
+  orig: 42, 204
+  offset: 0, 0
+  index: -1
+退_裸_腕L
+  rotate: true
+  xy: 2944, 596
+  size: 36, 143
+  orig: 36, 143
+  offset: 0, 0
+  index: -1
+退_裸_腕L_褐色
+  rotate: true
+  xy: 3493, 897
+  size: 36, 143
+  orig: 36, 143
+  offset: 0, 0
+  index: -1
+退_裸_腕R
+  rotate: true
+  xy: 3875, 1249
+  size: 31, 146
+  orig: 33, 149
+  offset: 2, 3
+  index: -1
+退_裸_腕R_褐色
+  rotate: false
+  xy: 2813, 172
+  size: 31, 146
+  orig: 33, 149
+  offset: 2, 3
+  index: -1
+退_足元カゲ
+  rotate: false
+  xy: 3501, 750
+  size: 91, 59
+  orig: 97, 67
+  offset: 5, 1
+  index: -1
+退_鞄
+  rotate: true
+  xy: 2190, 344
+  size: 94, 191
+  orig: 94, 191
+  offset: 0, 0
+  index: -1
+退_髪_ピンク5
+  rotate: false
+  xy: 2828, 455
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+退_髪_赤2
+  rotate: true
+  xy: 3767, 328
+  size: 78, 75
+  orig: 84, 77
+  offset: 1, 1
+  index: -1
+退_髪_金4
+  rotate: true
+  xy: 3348, 248
+  size: 85, 94
+  orig: 94, 94
+  offset: 9, 0
+  index: -1
+退_髪_黒赤メッシュ1
+  rotate: true
+  xy: 3430, 426
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+退_髪_黒黄メッシュ3
+  rotate: true
+  xy: 3979, 788
+  size: 93, 99
+  orig: 93, 100
+  offset: 0, 1
+  index: -1
+退_髪_黒黄メッシュ3ポニテ
+  rotate: true
+  xy: 2823, 320
+  size: 42, 94
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+退_髪_黒黄メッシュ3ポニテ2
+  rotate: false
+  xy: 2137, 547
+  size: 41, 184
+  orig: 93, 215
+  offset: 0, 24
+  index: -1
+退_髪後ろ_黒赤メッシュ1
+  rotate: true
+  xy: 2426, 1138
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+部屋1
+  rotate: false
+  xy: 2, 973
+  size: 1096, 1096
+  orig: 1099, 1098
+  offset: 2, 1
+  index: -1
+部屋2
+  rotate: false
+  xy: 2, 148
+  size: 597, 823
+  orig: 599, 825
+  offset: 1, 1
+  index: -1
+部屋3
+  rotate: true
+  xy: 601, 159
+  size: 812, 296
+  orig: 815, 299
+  offset: 2, 1
+  index: -1
+部屋UB扉
+  rotate: false
+  xy: 1100, 1407
+  size: 604, 662
+  orig: 606, 666
+  offset: 1, 2
+  index: -1
+部屋アロマ
+  rotate: true
+  xy: 3998, 613
+  size: 41, 56
+  orig: 43, 61
+  offset: 1, 4
+  index: -1
+部屋エアコン
+  rotate: false
+  xy: 1746, 546
+  size: 200, 205
+  orig: 202, 222
+  offset: 1, 16
+  index: -1
+部屋クッション_ゲーム
+  rotate: false
+  xy: 2173, 1135
+  size: 251, 163
+  orig: 277, 188
+  offset: 21, 0
+  index: -1
+部屋クッション_軽食
+  rotate: false
+  xy: 1482, 366
+  size: 267, 178
+  orig: 277, 188
+  offset: 1, 1
+  index: -1
+部屋クッション_軽食カゲなし
+  rotate: false
+  xy: 1751, 366
+  size: 267, 178
+  orig: 277, 188
+  offset: 1, 1
+  index: -1
+部屋ケーキ
+  rotate: false
+  xy: 2661, 2
+  size: 77, 49
+  orig: 79, 51
+  offset: 1, 1
+  index: -1
+部屋コーヒー
+  rotate: true
+  xy: 4029, 709
+  size: 32, 50
+  orig: 35, 52
+  offset: 2, 1
+  index: -1
+部屋ゴミ箱
+  rotate: true
+  xy: 3005, 2
+  size: 67, 80
+  orig: 69, 82
+  offset: 1, 1
+  index: -1
+部屋シャワー
+  rotate: true
+  xy: 3095, 1496
+  size: 143, 246
+  orig: 143, 246
+  offset: 0, 0
+  index: -1
+部屋シャンプーボトル
+  rotate: false
+  xy: 3841, 600
+  size: 56, 84
+  orig: 58, 86
+  offset: 1, 1
+  index: -1
+部屋タオルホルダー
+  rotate: true
+  xy: 2622, 1139
+  size: 106, 171
+  orig: 108, 173
+  offset: 1, 1
+  index: -1
+部屋ティッシュ
+  rotate: true
+  xy: 3638, 779
+  size: 46, 94
+  orig: 48, 96
+  offset: 1, 1
+  index: -1
+部屋テレビ
+  rotate: false
+  xy: 1708, 753
+  size: 252, 361
+  orig: 254, 363
+  offset: 1, 1
+  index: -1
+部屋テレビ画面
+  rotate: false
+  xy: 3109, 1765
+  size: 278, 304
+  orig: 295, 333
+  offset: 3, 18
+  index: -1
+部屋テレビ画面点滅用
+  rotate: true
+  xy: 1184, 502
+  size: 267, 289
+  orig: 295, 333
+  offset: 4, 30
+  index: -1
+部屋テーブル大
+  rotate: true
+  xy: 899, 584
+  size: 387, 283
+  orig: 389, 286
+  offset: 1, 1
+  index: -1
+部屋テーブル小
+  rotate: true
+  xy: 2621, 1682
+  size: 306, 236
+  orig: 308, 238
+  offset: 1, 1
+  index: -1
+部屋テーブル極小
+  rotate: false
+  xy: 3807, 1855
+  size: 272, 214
+  orig: 272, 214
+  offset: 0, 0
+  index: -1
+部屋トイレ
+  rotate: true
+  xy: 1475, 546
+  size: 188, 269
+  orig: 190, 271
+  offset: 1, 1
+  index: -1
+部屋トイレットペーパー
+  rotate: false
+  xy: 3679, 67
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+部屋ピザ
+  rotate: false
+  xy: 3093, 1377
+  size: 198, 117
+  orig: 200, 120
+  offset: 1, 1
+  index: -1
+部屋フルーツ
+  rotate: true
+  xy: 3920, 328
+  size: 63, 55
+  orig: 66, 57
+  offset: 2, 1
+  index: -1
+部屋ベッド
+  rotate: false
+  xy: 1706, 1492
+  size: 548, 496
+  orig: 563, 496
+  offset: 0, 0
+  index: -1
+部屋ポテチ
+  rotate: false
+  xy: 3089, 553
+  size: 128, 86
+  orig: 130, 88
+  offset: 1, 1
+  index: -1
+部屋冷蔵庫
+  rotate: true
+  xy: 3389, 1709
+  size: 206, 330
+  orig: 208, 332
+  offset: 1, 1
+  index: -1
+部屋冷蔵庫_閉
+  rotate: true
+  xy: 2227, 1300
+  size: 154, 282
+  orig: 158, 282
+  offset: 4, 0
+  index: -1
+部屋冷蔵庫_開
+  rotate: true
+  xy: 3343, 1463
+  size: 154, 218
+  orig: 160, 218
+  offset: 6, 0
+  index: -1
+部屋掃除道具
+  rotate: false
+  xy: 2359, 207
+  size: 110, 122
+  orig: 120, 148
+  offset: 2, 25
+  index: -1
+部屋本棚
+  rotate: true
+  xy: 1100, 1105
+  size: 300, 556
+  orig: 303, 558
+  offset: 1, 1
+  index: -1
+部屋洗面台
+  rotate: true
+  xy: 3109, 1641
+  size: 122, 251
+  orig: 124, 253
+  offset: 1, 1
+  index: -1
+部屋浴槽
+  rotate: false
+  xy: 2256, 1678
+  size: 363, 310
+  orig: 365, 312
+  offset: 1, 1
+  index: -1
+部屋浴槽_立ちバかぶせ
+  rotate: false
+  xy: 3441, 126
+  size: 54, 82
+  orig: 365, 312
+  offset: 2, 127
+  index: -1
+部屋箱チョコ
+  rotate: false
+  xy: 3732, 77
+  size: 54, 40
+  orig: 56, 42
+  offset: 1, 1
+  index: -1
+部屋電マ
+  rotate: true
+  xy: 2521, 1010
+  size: 75, 50
+  orig: 77, 53
+  offset: 1, 1
+  index: -1
+部屋靴下
+  rotate: true
+  xy: 3848, 250
+  size: 76, 62
+  orig: 79, 64
+  offset: 2, 1
+  index: -1
+部屋鞄
+  rotate: true
+  xy: 3089, 465
+  size: 86, 106
+  orig: 89, 109
+  offset: 2, 1
+  index: -1
+食_チョーカー
+  rotate: true
+  xy: 1169, 557
+  size: 25, 13
+  orig: 28, 17
+  offset: 2, 1
+  index: -1
+食_ピアス_赤2
+  rotate: false
+  xy: 2875, 1430
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+食_ピアス_黒黄メッシュ3
+  rotate: false
+  xy: 3097, 920
+  size: 5, 13
+  orig: 7, 15
+  offset: 1, 1
+  index: -1
+食_制服_スカート奥
+  rotate: true
+  xy: 3542, 12
+  size: 76, 43
+  orig: 78, 43
+  offset: 2, 0
+  index: -1
+食_制服_スカート手前
+  rotate: false
+  xy: 3686, 170
+  size: 63, 73
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+食_制服_胴体
+  rotate: true
+  xy: 3612, 1614
+  size: 93, 107
+  orig: 95, 109
+  offset: 1, 1
+  index: -1
+食_制服_胴体褐色
+  rotate: true
+  xy: 2925, 462
+  size: 93, 105
+  orig: 95, 107
+  offset: 1, 1
+  index: -1
+食_制服_腕R_袖
+  rotate: false
+  xy: 3963, 610
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+食_制服_腕上L
+  rotate: true
+  xy: 2502, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+食_制服_靴下奥
+  rotate: false
+  xy: 3620, 336
+  size: 70, 88
+  orig: 71, 93
+  offset: 1, 4
+  index: -1
+食_制服_靴下手前
+  rotate: false
+  xy: 2411, 934
+  size: 94, 56
+  orig: 96, 56
+  offset: 1, 0
+  index: -1
+食_制服のみ_おっぱい
+  rotate: false
+  xy: 3721, 1855
+  size: 76, 60
+  orig: 95, 93
+  offset: 19, 7
+  index: -1
+食_制服のみ_胴体
+  rotate: false
+  xy: 3445, 331
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+食_口
+  rotate: false
+  xy: 3620, 330
+  size: 4, 4
+  orig: 8, 8
+  offset: 2, 3
+  index: -1
+食_口開け
+  rotate: true
+  xy: 1999, 16
+  size: 7, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+食_男_胴体
+  rotate: false
+  xy: 2859, 1715
+  size: 248, 354
+  orig: 248, 354
+  offset: 0, 0
+  index: -1
+食_男_腕L
+  rotate: false
+  xy: 2488, 1014
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+食_男_腕Lかぶせ
+  rotate: false
+  xy: 3898, 523
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+食_男_腕R
+  rotate: true
+  xy: 3038, 71
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+食_目閉じ
+  rotate: false
+  xy: 3775, 50
+  size: 38, 19
+  orig: 40, 24
+  offset: 1, 0
+  index: -1
+食_眉
+  rotate: false
+  xy: 2160, 8
+  size: 35, 18
+  orig: 38, 22
+  offset: 2, 3
+  index: -1
+食_眉困り
+  rotate: true
+  xy: 3177, 426
+  size: 37, 18
+  orig: 38, 22
+  offset: 1, 2
+  index: -1
+食_胸リボン赤
+  rotate: false
+  xy: 4048, 59
+  size: 31, 28
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+食_腕R
+  rotate: true
+  xy: 2944, 557
+  size: 37, 143
+  orig: 38, 143
+  offset: 0, 0
+  index: -1
+食_腕R_褐色
+  rotate: true
+  xy: 3032, 426
+  size: 37, 143
+  orig: 38, 143
+  offset: 0, 0
+  index: -1
+食_腕前L
+  rotate: true
+  xy: 3618, 426
+  size: 52, 78
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+食_腕前L_手
+  rotate: true
+  xy: 3766, 408
+  size: 52, 78
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+食_腕前L_手褐色
+  rotate: false
+  xy: 3632, 169
+  size: 52, 78
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+食_腕前L_褐色
+  rotate: false
+  xy: 3789, 168
+  size: 52, 78
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+食_腕前Lつまむ
+  rotate: false
+  xy: 3969, 109
+  size: 29, 35
+  orig: 53, 79
+  offset: 6, 44
+  index: -1
+食_腕前Lつまむ_手褐色
+  rotate: true
+  xy: 3765, 19
+  size: 29, 35
+  orig: 53, 79
+  offset: 6, 44
+  index: -1
+食_腕奥_H用
+  rotate: false
+  xy: 3843, 113
+  size: 43, 52
+  orig: 57, 64
+  offset: 7, 5
+  index: -1
+食_腕奥_H用褐色
+  rotate: true
+  xy: 3675, 22
+  size: 43, 52
+  orig: 57, 64
+  offset: 7, 5
+  index: -1
+食_裸_おっぱいL
+  rotate: false
+  xy: 3979, 728
+  size: 48, 58
+  orig: 88, 106
+  offset: 40, 21
+  index: -1
+食_裸_おっぱいL_褐色
+  rotate: true
+  xy: 3690, 120
+  size: 48, 58
+  orig: 88, 106
+  offset: 40, 21
+  index: -1
+食_裸_おっぱいL乳首
+  rotate: false
+  xy: 3793, 108
+  size: 48, 58
+  orig: 88, 106
+  offset: 40, 21
+  index: -1
+食_裸_おっぱいR
+  rotate: false
+  xy: 4002, 554
+  size: 58, 57
+  orig: 88, 106
+  offset: 12, 7
+  index: -1
+食_裸_おっぱいR_褐色
+  rotate: true
+  xy: 4005, 494
+  size: 58, 57
+  orig: 88, 106
+  offset: 12, 7
+  index: -1
+食_裸_おっぱいR乳首
+  rotate: false
+  xy: 3619, 69
+  size: 58, 57
+  orig: 88, 106
+  offset: 12, 7
+  index: -1
+食_裸_胴体
+  rotate: false
+  xy: 2930, 172
+  size: 88, 105
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+食_裸_胴体_褐色
+  rotate: false
+  xy: 3020, 172
+  size: 88, 105
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+食_裸_脚
+  rotate: false
+  xy: 2, 2
+  size: 220, 144
+  orig: 220, 203
+  offset: 0, 59
+  index: -1
+食_裸_脚_褐色
+  rotate: false
+  xy: 224, 2
+  size: 220, 144
+  orig: 220, 203
+  offset: 0, 59
+  index: -1
+食_裸_脚_褐色かぶせ
+  rotate: false
+  xy: 446, 2
+  size: 220, 144
+  orig: 220, 203
+  offset: 0, 59
+  index: -1
+食_裸_脚かぶせ
+  rotate: true
+  xy: 2027, 1116
+  size: 220, 144
+  orig: 220, 203
+  offset: 0, 59
+  index: -1
+食_裸_脚下
+  rotate: true
+  xy: 2007, 28
+  size: 144, 188
+  orig: 220, 203
+  offset: 42, 6
+  index: -1
+食_裸_脚下_褐色
+  rotate: true
+  xy: 2622, 1247
+  size: 144, 188
+  orig: 220, 203
+  offset: 42, 6
+  index: -1
+食_裸_腕上L
+  rotate: true
+  xy: 2573, 1015
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+食_裸_腕上L_褐色
+  rotate: false
+  xy: 2507, 944
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+食_頭
+  rotate: true
+  xy: 3694, 538
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+食_頭_褐色
+  rotate: false
+  xy: 3824, 686
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+食_髪_ピンク5
+  rotate: false
+  xy: 3525, 536
+  size: 84, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+食_髪_赤2
+  rotate: false
+  xy: 3688, 603
+  size: 78, 81
+  orig: 85, 84
+  offset: 1, 2
+  index: -1
+食_髪_金4
+  rotate: true
+  xy: 1385, 2
+  size: 83, 94
+  orig: 93, 94
+  offset: 9, 0
+  index: -1
+食_髪_黒赤メッシュ1
+  rotate: false
+  xy: 2411, 992
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+食_髪_黒黄メッシュ3
+  rotate: false
+  xy: 3206, 87
+  size: 77, 95
+  orig: 78, 97
+  offset: 1, 1
+  index: -1
+食_髪ポニテ_黒黄メッシュ
+  rotate: false
+  xy: 2682, 318
+  size: 39, 127
+  orig: 39, 129
+  offset: 0, 0
+  index: -1
+食_髪奥_赤
+  rotate: true
+  xy: 3958, 171
+  size: 20, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+食_髪奥_金
+  rotate: true
+  xy: 3966, 690
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+食_髪奥_黒赤メッシュ
+  rotate: false
+  xy: 3594, 765
+  size: 14, 21
+  orig: 16, 23
+  offset: 1, 1
+  index: -1
+食_髪奥_黒赤メッシュ2
+  rotate: true
+  xy: 3977, 328
+  size: 22, 46
+  orig: 88, 104
+  offset: 33, 28
+  index: -1
+食_髪奥_黒黄メッシュ
+  rotate: true
+  xy: 1948, 4
+  size: 19, 49
+  orig: 21, 51
+  offset: 1, 1
+  index: -1
+食_髪奥ピンク
+  rotate: true
+  xy: 3878, 758
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+食目ピンク
+  rotate: true
+  xy: 4000, 114
+  size: 38, 22
+  orig: 40, 24
+  offset: 1, 1
+  index: -1
+食目赤
+  rotate: false
+  xy: 2120, 2
+  size: 38, 24
+  orig: 40, 26
+  offset: 1, 1
+  index: -1
+食目金
+  rotate: true
+  xy: 4000, 74
+  size: 38, 22
+  orig: 40, 24
+  offset: 1, 1
+  index: -1
+食目黒赤メッシュ
+  rotate: true
+  xy: 4024, 113
+  size: 38, 22
+  orig: 40, 24
+  offset: 1, 1
+  index: -1
+食目黒黄メッシュ
+  rotate: true
+  xy: 4024, 73
+  size: 38, 22
+  orig: 40, 24
+  offset: 1, 1
+  index: -1

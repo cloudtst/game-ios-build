@@ -1,0 +1,97 @@
+
+感情エフェクト.png
+size: 533,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+フキダシ
+  rotate: false
+  xy: 527, 974
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+フキダシキラ1
+  rotate: true
+  xy: 2, 269
+  size: 175, 261
+  orig: 175, 262
+  offset: 0, 1
+  index: -1
+フキダシキラ2
+  rotate: true
+  xy: 214, 2
+  size: 86, 149
+  orig: 88, 150
+  offset: 1, 1
+  index: -1
+フキダシクエスチョン
+  rotate: false
+  xy: 301, 664
+  size: 224, 311
+  orig: 226, 313
+  offset: 1, 1
+  index: -1
+フキダシショック
+  rotate: true
+  xy: 2, 72
+  size: 195, 210
+  orig: 195, 210
+  offset: 0, 0
+  index: -1
+フキダシハート
+  rotate: false
+  xy: 2, 446
+  size: 291, 251
+  orig: 293, 254
+  offset: 1, 2
+  index: -1
+フキダシビックリ
+  rotate: false
+  xy: 420, 71
+  size: 111, 299
+  orig: 113, 301
+  offset: 1, 1
+  index: -1
+フキダシ怒り
+  rotate: false
+  xy: 2, 699
+  size: 297, 276
+  orig: 300, 281
+  offset: 1, 3
+  index: -1
+フキダシ汗
+  rotate: false
+  xy: 265, 90
+  size: 153, 280
+  orig: 155, 283
+  offset: 1, 1
+  index: -1
+フキダシ無言1
+  rotate: true
+  xy: 365, 5
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+フキダシ無言2
+  rotate: true
+  xy: 365, 5
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+フキダシ無言3
+  rotate: true
+  xy: 365, 5
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+フキダシ音符
+  rotate: false
+  xy: 295, 372
+  size: 228, 290
+  orig: 230, 292
+  offset: 1, 1
+  index: -1

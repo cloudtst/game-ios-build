@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+	<title></title>
+	<style>
+		@font-face {
+		    font-family: 'Rubik';
+		    src: url('androidadult/Rubik-Regular.woff2') format('woff2'),
+		        url('androidadult/Rubik-Regular.woff') format('woff');
+		    font-weight: normal;
+		    font-style: normal;
+		    font-display: swap;
+		}
+		body {
+			width: 100%;
+			height: 100%;
+			border: none;
+			padding: 0;
+			margin: 0;
+			overflow: hidden;
+			font-family: 'Rubik';
+		}
+		#game-inner-frame {
+			width: 100%;
+			height: 100%;
+			    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+		}
+
+		#dpad-config-apply-all {
+			display: none;
+		}
+
+
+
+
+	</style>
+
+	        
+        <link rel="stylesheet" href="androidadult/font-awesome/css/font-awesome.min.css" />
+
+<link rel="stylesheet" type="text/css" href="androidadult/gamepad.css">
+
+<script type="text/javascript">
+function mobileAndTabletCheck() {
+  return /Mobi|Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
+}
+</script>
+</head>
+<body>
+
+
+<div class="game-container">
+<iframe id="game-inner-frame" src="index2.html"></iframe>
+</div>
+<script src="androidadult/jquery-3.7.1.min.js"></script>
+
+
+<div id="control">
+            <a id="context-button" onclick="$('.context-menu').toggle();">
+                <i class="fa fa-solid fa-ellipsis-v"></i>
+            </a>
+            <div id="top-context-menu" class="context-menu">
+
+                <div class="game-context-menu-button">
+                    <span><a style="color:red;font-family: sans-serif;font-weight: bold;text-decoration: none;" onmouseover="this.style.color='blue';" href="https://androidadult.com/">AndroidAdult.com</a></span>
+                </div>
+                <div id="export-save" class="game-context-menu-button" onclick="exportData();">
+                    <i class="fa fa-solid fa-download control-button"></i>
+                    <span>Export Save</span>
+                </div>
+                <div id="import-save" class="game-context-menu-button" onclick="importData();">
+                    <i class="fa fa-solid fa-cloud-upload control-button"></i>
+                    <span>Import Save</span>
+                </div>
+                <div class="game-context-menu-button">
+                    <label>
+                      <input type="checkbox" id="ThroughFailedToLoad"> ByPass Error
+                    </label>
+                </div>
+                <div class="game-context-menu-button" onclick="runModMenu();">
+                    <i class="fa fa-solid fa-usd control-button"></i>
+                    <span>MOD</span>
+                </div>
+            </div>
+            <a id="game-control-button">
+                <i class="fa fa-regular fa-keyboard-o keyboard-icon"></i>
+                <i class="fa fa-solid fa-gamepad dpad-icon show"></i>
+            </a>
+        </div>
+
+<div class="simple-keyboard" style="width: 390px;"></div>
+
+
+<script src="androidadult/localforage.min.js"></script>
+
+
+
+<script>
+
+
+
+
+            const gamePage = window.parent;
+            const gamePageDoc = gamePage.document;
+            const innerGameFrame = document.querySelector('#game-inner-frame');
+
+            function resetInnerGameFrame() {
+                innerGameFrame.src = '';
+            }
+
+            window.addEventListener('load', async () => {
+
+                // Register in game context menu control events
+
+                // Register on click handler for game control button
+                registerOnClickHandlerForGameControlButton();
+
+
+
+
+                // Retrieve game-type specifc control tutorials
+                // getGameControlTutorials();
+
+                // Adjust keyboard dimension to fit in game frame
+                adjustKeyboardDimension();
+
+
+            });
+
+
+            
+
+            function onGameStart() {
+                // Check if the game should enable translation feature
+                setTimeout(() => {
+                    const gameCanvas = innerGameFrame.contentWindow.document.querySelector('canvas');
+                    if (!gameCanvas) {
+                        // Hide the translation button icon
+                        const translationIcon = document.querySelector('.translation-icon');
+                        translationIcon && translationIcon.classList.remove('show');
+                    }
+                }, 1000);
+            }
+
+            /****************************************************/
+            /*************** Frame Display Handler **************/
+            /****************************************************/
+
+            var pageExpand = false;
+            let curFullScreenStatus = 0; // 0-Minimized, 1-FullScreen
+            let gameStartScriptLoaded = false;
+
+            function prepareGameStartScripts(resolve, reject) {
+                if (gameStartScriptLoaded) {
+                    return;
+                }
+                const script = document.createElement('script');
+                script.src = 'androidadult/localforage.min.js';
+                script.onload = resolve;
+                script.onerror = reject;
+                document.head.appendChild(script);
+                gameStartScriptLoaded = true;
+            }
+
+            function adjustGameFrameDimension(parentWidth, parentHeight) {
+                let frameWidth = parseInt(innerGameFrame.width.slice(0, -2));
+                let frameHeight = parseInt(innerGameFrame.height.slice(0, -2));
+                let frameAspectRatio = 0.5625;
+
+                if (frameWidth && frameWidth > parentWidth) {
+                    let adjustedHeight = frameAspectRatio * parentWidth;
+                    if (adjustedHeight > parentHeight) {
+                        innerGameFrame.height = parentHeight + "px";
+                        innerGameFrame.width = (parentHeight / frameAspectRatio) + "px";
+                    } else {
+                        innerGameFrame.width = adjustedHeight / frameAspectRatio + "px";
+                        innerGameFrame.height = adjustedHeight + "px";
+                    }
+                } else if (frameHeight && frameHeight > parentHeight) {
+                    innerGameFrame.height = parentHeight + "px";
+                    innerGameFrame.width = (parentHeight / frameAspectRatio) + "px";
+                } else if (parentWidth > parentHeight) {
+                    let adjustedWidth = parentHeight / frameAspectRatio;
+                    if (adjustedWidth > parentWidth) {
+                        innerGameFrame.width = parentWidth + "px";
+                        innerGameFrame.height = frameAspectRatio * parentWidth + "px";
+                    } else {
+                        innerGameFrame.width = adjustedWidth + "px";
+                        innerGameFrame.height = frameAspectRatio * adjustedWidth + "px";
+                    }
+                } else {
+                    let adjustedHeight = frameAspectRatio * parentWidth;
+                    if (adjustedHeight > parentHeight) {
+                        innerGameFrame.height = parentHeight + "px";
+                        innerGameFrame.width = parentHeight / frameAspectRatio + "px";
+                    } else {
+                        innerGameFrame.height = adjustedHeight + "px";
+                        innerGameFrame.width = adjustedHeight / frameAspectRatio + "px";
+                    }
+                }
+                autoAdjustGameFrameElementsDisplay();
+                adjustKeyboardDimension();
+            }
+
+
+
+            const expandGameFrame = () => {
+                pageExpand = true;
+
+                const wrapper = gamePageDoc.querySelector('.edgtf-wrapper');
+                wrapper.style.zIndex = 99999997;
+                const content = gamePageDoc.querySelector('.edgtf-content');
+                content.style.zIndex = 99999997;
+
+                gamePage.expandGameFrame();
+
+
+                adjustGameFrameDimension(gamePageDoc.documentElement.clientWidth, gamePageDoc.documentElement.clientHeight);
+
+                const pageMask = gamePageDoc.querySelector("#game-page-mask");
+                pageMask.classList.add("show");
+            }
+
+            function onFullScreenChange() {
+                if (gamePage.checkIsIOS()) {
+                    return;
+                }
+            }
+
+            /**************************************************/
+            /**************** In-Game Keyboard ****************/
+            /**************************************************/
+
+            const adjustKeyboardDimension = () => {
+                const gameFrameWidth = document.documentElement.getBoundingClientRect().width;
+                const keyboard = document.querySelector(".simple-keyboard");
+                keyboard.style.width = gameFrameWidth + 'px';
+            }
+
+
+
+            /*****************************************************/
+            /**************** Game Control Button ****************/
+            /*****************************************************/
+
+            const gameControlButton = document.querySelector('#game-control-button');
+            const keyboardButtonIcon = document.querySelector('.keyboard-icon');
+            const dpadButtonIcon = document.querySelector('.dpad-icon');
+            let gameControlButtonState = 0; // 0: hide both, 1: show dpad, 2: show keyboard
+
+            const toggleDpad = () => {
+                if (!mobileAndTabletCheck()) {
+                    // No need to load dpad on desktop
+                    return;
+                }
+                const dpadWrapper = document.querySelector('.simple-dpad');
+                if (!dpadWrapper) {
+                    const lfJS = document.createElement("script");
+                    lfJS.src =
+                    "androidadult/localforage.min.js";
+                    lfJS.onload = () => {
+                        const dpadJS = document.createElement("script");
+                        dpadJS.type = "text/javascript";
+                        if (false) {
+                            dpadJS.src = window.location.origin + '/resources/shared/SingleGame/dpad-1.2.8.min.js';
+                        } else {
+                            dpadJS.src = window.location.origin + '/resources/shared/SingleGame/dpad.min.js';
+                        }
+                        document.body.appendChild(dpadJS);
+                        gameControlButtonState = 1;
+                    };
+                    document.head.appendChild(lfJS);
+                } else {
+                    if (!dpadWrapper.classList.contains('show')) {
+                        gameControlButtonState = 1;
+                    }
+                    dpadWrapper.classList.toggle('show');
+                }
+            };
+
+            const toggleKeyboard = () => {
+                if (!mobileAndTabletCheck()) {
+                    // No need to load keyboard on desktop
+                    return;
+                }
+                if (!keyboardInitialized) {
+                    const headTag = document.getElementsByTagName("head")[0];
+
+                    const keyboardCSS = document.createElement('link');
+                    keyboardCSS.type = 'text/css';
+                    keyboardCSS.rel = 'stylesheet';
+                    keyboardCSS.href = 'androidadult/simple-keyboard-index.css';
+                    headTag.appendChild(keyboardCSS);
+
+                    const keyboardJS = document.createElement('script');
+                    keyboardJS.type = 'text/javascript';
+                    keyboardJS.src = 'androidadult/simple-keyboard-index.js';
+                    keyboardJS.onload = () => {
+                        const customKeyboardJS = document.createElement('script');
+                        customKeyboardJS.type = 'text/javascript';
+                        customKeyboardJS.src = 'androidadult/keyboard.min.js';
+                        headTag.appendChild(customKeyboardJS);
+                        customKeyboardJS.onload = () => {
+                            createKeyboard();
+                            gameControlButtonState = 2;
+                        };
+                    }
+                    headTag.appendChild(keyboardJS);
+                    keyboardInitialized = true;
+                } else {
+                    const keyboardElement = document.querySelector('.hg-layout-default');
+                    if (keyboardElement.classList.contains('hidden')) {
+                        gameControlButtonState = 2;
+                    } else {
+                        gameControlButtonState = 0;
+                    }
+                    createKeyboard();
+                    keyboardElement.classList.toggle('hidden');
+                }
+            };
+
+            const registerOnClickHandlerForGameControlButton = () => {
+                if (!mobileAndTabletCheck()) {
+                    // No need to register click event for game control button on desktop devices
+                    return;
+                }
+                // Toggle order: dpad -> keyboard -> hide both -> dpad
+                gameControlButton.addEventListener('click', () => {
+                    console.log("On click game control button");
+					if (gameControlButtonState == 0) {
+	                        // hide both -> show dpad
+	                        keyboardButtonIcon.classList.add('show');
+	                        dpadButtonIcon.classList.remove('show');
+	                        toggleDpad();
+                            // $('.dpad-icon').removeClass('fa-mobile').addClass('fa-gamepad');
+
+	                    } else if (gameControlButtonState == 1) {
+	                        // show dpad -> show keyboard
+	                        keyboardButtonIcon.classList.remove('show');
+	                        dpadButtonIcon.classList.add('show');
+	                        toggleDpad();
+	                        toggleKeyboard();
+
+	                    } else {
+	                        // show keyboard -> hide both
+	                        toggleKeyboard();
+	                    }
+	                    document.querySelector('.simple-keyboard').style.display = 'block';
+	                });
+	            };
+
+
+            
+            /*******************************************/
+            /************* Game Context Menu ***********/
+            /*******************************************/
+
+            const gameControlArea = document.querySelector('#control');
+            const topContextMenu = document.querySelector('#top-context-menu');
+
+
+
+            const onClickSaveMenuButton = (e) => {
+                if (e.target !== saveMenuButton && e.target.parentElement != saveMenuButton) {
+                    return;
+                }
+                dismissAllSubMenus(saveSubMenu.id);
+                saveSubMenu.classList.toggle('show');
+            };
+
+
+                        const dismissTranslationOverlay = () => {};
+            
+            const onClickContextMenuButton = (e) => {
+                topContextMenu.classList.toggle('show');
+                e.preventDefault();
+            };
+
+            let keyboardInitialized = false;
+ 
+
+
+
+
+        </script>
+
+
+
+        <script type="text/javascript">
+
+        const iframe = document.getElementById("game-inner-frame");
+
+        iframe.onload = function () {
+          const gameWindow = iframe.contentWindow;
+
+          const waitForGameStart = setInterval(() => {
+            try {
+              // Wait until player has pressed a button and the game has moved to the Map Scene
+              if (
+                gameWindow.SceneManager &&
+                gameWindow.SceneManager._scene instanceof gameWindow.Scene_Map &&
+                gameWindow.$dataSystem
+              ) {
+                clearInterval(waitForGameStart);
+
+                const gameId = gameWindow.$dataSystem.versionId;
+                const gameTitle = gameWindow.$dataSystem.gameTitle;
+                const finalTitle = gameTitle && gameTitle.trim() !== "" ? gameTitle : "Untitled RPG Game";
+
+
+                window._gameId = 'game_' + gameId;
+                document.title = finalTitle;
+
+                const div = document.createElement("div");
+                div.innerText = "Game ID: " + window._gameId;
+                div.style.color = "white";
+                document.body.appendChild(div);
+
+                if (mobileAndTabletCheck()) {
+                  const script = document.createElement('script');
+                  script.type = 'text/javascript';
+                  script.src = 'androidadult/dpad.min.js';
+                  document.head.appendChild(script);
+                } else {
+                  document.querySelector('#game-control-button').style.display = 'none';
+                }
+              }
+            } catch (err) {
+              // Avoid crash if iframe content isn't ready yet
+              console.warn("Waiting for game to initialize...");
+            }
+          }, 2000);
+        };
+
+
+
+        </script>
+
+<script type="text/javascript" src="androidadult/exportimport.js"></script>
+<script type="text/javascript" src="androidadult/mod.js"></script>
+<!-- <script type="text/javascript" src="https://lewdsteam.com/lewdsteam-rpgmv.js"></script> -->
+
+
+
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    const checkbox = document.getElementById("ThroughFailedToLoad");
+    const iframe = document.getElementById("game-inner-frame");
+
+    const shouldLoad = localStorage.getItem("ThroughFailedToLoadMV") === "true";
+    checkbox.checked = shouldLoad;
+
+    iframe.addEventListener("load", () => {
+      if (!shouldLoad) return;
+
+      const waitForPluginSystem = () => {
+        try {
+          const iframeWin = iframe.contentWindow;
+
+          // Check if PluginManager is initialized
+          if (iframeWin && iframeWin.PluginManager && iframeWin.PluginManager._scripts) {
+            console.log("PluginManager is ready");
+
+            // Inject plugin script
+            const script = document.createElement("script");
+            script.src = "androidadult/ThroughFailedToLoad.js";
+            script.onload = () => {
+              console.log("ThroughFailedToLoad.js loaded.");
+
+
+              iframeWin.PluginManager._scripts.push("ThroughFailedToLoad");
+              iframeWin.PluginManager.setup(iframeWin.$plugins); // re-run setup if needed
+
+              console.log("Plugin manually registered.");
+            };
+            iframe.contentDocument.body.appendChild(script);
+
+          } else {
+            setTimeout(waitForPluginSystem, 100);
+          }
+        } catch (e) {
+          console.error("Injection error:", e);
+        }
+      };
+
+      waitForPluginSystem();
+    });
+
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) {
+        localStorage.setItem("ThroughFailedToLoadMV", "true");
+        alert("Restart the game to effect.");
+      } else {
+        localStorage.removeItem("ThroughFailedToLoadMV");
+        alert("Restart the game if you want to take effect.");
+      }
+    });
+  });
+</script>
+
+
+
+</body>
+</html>

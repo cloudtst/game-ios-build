@@ -1,0 +1,237 @@
+
+部屋.png
+size: 2807,1306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+【部屋】UB扉
+  rotate: false
+  xy: 1676, 642
+  size: 604, 662
+  orig: 1746, 1164
+  offset: 1103, 122
+  index: -1
+【部屋】アロマ
+  rotate: false
+  xy: 1494, 3
+  size: 41, 56
+  orig: 1746, 1164
+  offset: 837, 312
+  index: -1
+【部屋】エアコン
+  rotate: true
+  xy: 2, 2
+  size: 200, 205
+  orig: 1746, 1164
+  offset: 97, 710
+  index: -1
+【部屋】クッション1
+  rotate: false
+  xy: 480, 24
+  size: 267, 178
+  orig: 1746, 1164
+  offset: 497, 401
+  index: -1
+【部屋】クッション2
+  rotate: false
+  xy: 749, 24
+  size: 267, 178
+  orig: 1746, 1164
+  offset: 444, 158
+  index: -1
+【部屋】ケーキ
+  rotate: true
+  xy: 2743, 247
+  size: 77, 49
+  orig: 1746, 1164
+  offset: 618, 156
+  index: -1
+【部屋】コーヒー
+  rotate: true
+  xy: 1018, 12
+  size: 32, 50
+  orig: 1746, 1164
+  offset: 544, 209
+  index: -1
+【部屋】ゴミ箱
+  rotate: false
+  xy: 2705, 27
+  size: 67, 80
+  orig: 1746, 1164
+  offset: 562, 597
+  index: -1
+【部屋】シャワー
+  rotate: true
+  xy: 1299, 61
+  size: 141, 243
+  orig: 1746, 1164
+  offset: 1514, 343
+  index: -1
+【部屋】シャンプーボトル
+  rotate: false
+  xy: 2743, 404
+  size: 56, 84
+  orig: 1746, 1164
+  offset: 1653, 348
+  index: -1
+【部屋】タオルホルダー
+  rotate: false
+  xy: 2467, 10
+  size: 106, 171
+  orig: 1746, 1164
+  offset: 1160, 532
+  index: -1
+【部屋】ティッシュ
+  rotate: false
+  xy: 2234, 546
+  size: 46, 94
+  orig: 1746, 1164
+  offset: 109, 591
+  index: -1
+【部屋】テレビ
+  rotate: true
+  xy: 2282, 489
+  size: 252, 361
+  orig: 1746, 1164
+  offset: 335, 527
+  index: -1
+【部屋】テレビ画面
+  rotate: false
+  xy: 2249, 183
+  size: 278, 304
+  orig: 1746, 1164
+  offset: 352, 575
+  index: -1
+【部屋】テーブル
+  rotate: true
+  xy: 2529, 217
+  size: 270, 212
+  orig: 1746, 1164
+  offset: 529, 89
+  index: -1
+【部屋】トイレットペーパー
+  rotate: false
+  xy: 1441, 8
+  size: 51, 51
+  orig: 1746, 1164
+  offset: 1227, 439
+  index: -1
+【部屋】ピザ
+  rotate: true
+  xy: 1544, 4
+  size: 198, 117
+  orig: 1746, 1164
+  offset: 593, 178
+  index: -1
+【部屋】フルーツ
+  rotate: false
+  xy: 1376, 4
+  size: 63, 55
+  orig: 1746, 1164
+  offset: 574, 183
+  index: -1
+【部屋】ベッド
+  rotate: true
+  xy: 2282, 743
+  size: 561, 494
+  orig: 1746, 1164
+  offset: 112, 217
+  index: -1
+【部屋】ベース
+  rotate: false
+  xy: 2, 204
+  size: 1672, 1100
+  orig: 1746, 1164
+  offset: 53, 34
+  index: -1
+【部屋】ポテチ
+  rotate: false
+  xy: 2575, 5
+  size: 128, 86
+  orig: 1746, 1164
+  offset: 594, 206
+  index: -1
+【部屋】便座
+  rotate: true
+  xy: 209, 14
+  size: 188, 269
+  orig: 1746, 1164
+  offset: 1285, 344
+  index: -1
+【部屋】冷蔵庫ベース
+  rotate: false
+  xy: 2041, 8
+  size: 206, 330
+  orig: 1746, 1164
+  offset: 806, 56
+  index: -1
+【部屋】冷蔵庫扉閉じ
+  rotate: true
+  xy: 1018, 46
+  size: 156, 279
+  orig: 1746, 1164
+  offset: 878, 120
+  index: -1
+【部屋】冷蔵庫扉開き
+  rotate: true
+  xy: 2249, 23
+  size: 158, 216
+  orig: 1746, 1164
+  offset: 866, 251
+  index: -1
+【部屋】掃除道具
+  rotate: false
+  xy: 2575, 93
+  size: 110, 122
+  orig: 1746, 1164
+  offset: 1336, 755
+  index: -1
+【部屋】本棚
+  rotate: true
+  xy: 1676, 340
+  size: 300, 556
+  orig: 1746, 1164
+  offset: 798, 320
+  index: -1
+【部屋】板チョコ
+  rotate: true
+  xy: 2234, 490
+  size: 54, 40
+  orig: 1746, 1164
+  offset: 695, 213
+  index: -1
+【部屋】洗面台
+  rotate: false
+  xy: 2645, 490
+  size: 122, 251
+  orig: 1746, 1164
+  offset: 1444, 402
+  index: -1
+【部屋】浴槽
+  rotate: false
+  xy: 1676, 28
+  size: 363, 310
+  orig: 1746, 1164
+  offset: 1342, 126
+  index: -1
+【部屋】電マ
+  rotate: false
+  xy: 1299, 9
+  size: 75, 50
+  orig: 1746, 1164
+  offset: 301, 254
+  index: -1
+【部屋】靴下
+  rotate: true
+  xy: 2743, 326
+  size: 76, 62
+  orig: 1746, 1164
+  offset: 479, 452
+  index: -1
+【部屋】鞄
+  rotate: false
+  xy: 2687, 109
+  size: 86, 106
+  orig: 1746, 1164
+  offset: 624, 289
+  index: -1

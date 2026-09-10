@@ -1,0 +1,209 @@
+
+主人公UI.png
+size: 1382,2058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+【UI】Hステータス
+  rotate: false
+  xy: 2, 1566
+  size: 865, 168
+  orig: 1280, 720
+  offset: 9, 138
+  index: -1
+【UI】Hステータス(ヒロイン1公開)
+  rotate: false
+  xy: 2, 1224
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン1公開2)
+  rotate: false
+  xy: 2, 1053
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン1非公開)
+  rotate: false
+  xy: 2, 882
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン2公開)
+  rotate: true
+  xy: 869, 869
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン2公開2)
+  rotate: true
+  xy: 1040, 869
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン2非公開)
+  rotate: true
+  xy: 1211, 869
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン3公開)
+  rotate: false
+  xy: 2, 711
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン3公開2)
+  rotate: false
+  xy: 2, 540
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン3非公開)
+  rotate: false
+  xy: 2, 369
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン4公開)
+  rotate: false
+  xy: 2, 198
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン4公開2)
+  rotate: false
+  xy: 2, 27
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン4非公開)
+  rotate: true
+  xy: 869, 2
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン5公開)
+  rotate: true
+  xy: 1040, 2
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン5公開2)
+  rotate: false
+  xy: 2, 1395
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】Hステータス(ヒロイン5非公開)
+  rotate: true
+  xy: 1211, 2
+  size: 865, 169
+  orig: 1280, 720
+  offset: 9, 137
+  index: -1
+【UI】デリバリー(木)
+  rotate: false
+  xy: 2, 1821
+  size: 164, 163
+  orig: 1280, 720
+  offset: 525, 315
+  index: -1
+【UI】デリバリー(火)
+  rotate: false
+  xy: 2, 1821
+  size: 164, 163
+  orig: 1280, 720
+  offset: 191, 315
+  index: -1
+【UI】ヒロイン1
+  rotate: false
+  xy: 168, 1821
+  size: 164, 163
+  orig: 1280, 720
+  offset: 24, 315
+  index: -1
+【UI】ヒロイン2
+  rotate: false
+  xy: 334, 1821
+  size: 164, 163
+  orig: 1280, 720
+  offset: 191, 315
+  index: -1
+【UI】ヒロイン3
+  rotate: false
+  xy: 500, 1821
+  size: 164, 163
+  orig: 1280, 720
+  offset: 358, 315
+  index: -1
+【UI】ヒロイン4
+  rotate: false
+  xy: 666, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 525, 315
+  index: -1
+【UI】ヒロイン5
+  rotate: false
+  xy: 832, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 692, 315
+  index: -1
+【UI】主人公ステータスベース
+  rotate: false
+  xy: 771, 1901
+  size: 566, 155
+  orig: 1280, 720
+  offset: 308, 560
+  index: -1
+【UI】居酒屋(月)
+  rotate: false
+  xy: 998, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 24, 315
+  index: -1
+【UI】居酒屋(水)
+  rotate: false
+  xy: 998, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 358, 315
+  index: -1
+【UI】居酒屋(金)
+  rotate: false
+  xy: 998, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 692, 315
+  index: -1
+【UI】月火水木金
+  rotate: false
+  xy: 2, 1986
+  size: 767, 70
+  orig: 1280, 720
+  offset: 57, 486
+  index: -1
+【UI】警備(水)
+  rotate: false
+  xy: 1164, 1736
+  size: 164, 163
+  orig: 1280, 720
+  offset: 358, 315
+  index: -1

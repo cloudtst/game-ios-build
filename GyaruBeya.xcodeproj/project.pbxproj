@@ -1,0 +1,70 @@
+// !$*UTF8*$!
+{
+ archiveVersion = 1;
+ objectVersion = 56;
+ objects = {
+
+/* Begin PBXBuildFile section */
+A1 /* AppDelegate.swift */ = {isa = PBXBuildFile; fileRef = A2; };
+A3 /* GameViewController.swift */ = {isa = PBXBuildFile; fileRef = A4; };
+A5 /* Assets.xcassets */ = {isa = PBXBuildFile; fileRef = A6; };
+A7 /* Game */ = {isa = PBXBuildFile; fileRef = A8; };
+A10 /* WebKit.framework */ = {isa = PBXBuildFile; fileRef = A11; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+B1 = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GyaruBeya.app; sourceTree = BUILT_PRODUCTS_DIR; };
+A2 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+A4 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+A6 = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+A8 = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources/Game; sourceTree = "<group>"; };
+A9 = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+A11 = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+C1 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (A10); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+D1 = {isa = PBXNativeTarget; buildConfigurationList = E1; buildPhases = (F1,F2,F3); buildRules = (); dependencies = (); name = GyaruBeya; productName = GyaruBeya; productReference = B1; productType = "com.apple.product-type.application"; };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+P1 = {isa = PBXProject; attributes = {LastUpgradeCheck = 2600; TargetAttributes = {D1 = {CreatedOnToolsVersion = 26.0; };};}; buildConfigurationList = E2; compatibilityVersion = "Xcode 3.2"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (en,Base); mainGroup = G1; productRefGroup = G2; projectDirPath = ""; projectRoot = ""; targets = (D1); };
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+F3 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (A5,A7); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+F2 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (A1,A3); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXGroup section */
+G1 = {isa = PBXGroup; children = (G3,G4,G5); sourceTree = "<group>"; };
+G2 = {isa = PBXGroup; children = (B1); name = Products; sourceTree = "<group>"; };
+G3 = {isa = PBXGroup; children = (A2,A4,A6,A9,A8); path = GyaruBeya; sourceTree = "<group>"; };
+G4 = {isa = PBXGroup; children = (G2); name = Products; sourceTree = "<group>"; };
+G5 = {isa = PBXGroup; children = (A11); name = Frameworks; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+/* none */
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+H1 = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = GyaruBeya/Info.plist; IPHONEOS_DEPLOYMENT_TARGET = 26.0; PRODUCT_BUNDLE_IDENTIFIER = com.example.gyarubeya; PRODUCT_NAME = GyaruBeya; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2"; }; name = Debug; };
+H2 = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = GyaruBeya/Info.plist; IPHONEOS_DEPLOYMENT_TARGET = 26.0; PRODUCT_BUNDLE_IDENTIFIER = com.example.gyarubeya; PRODUCT_NAME = GyaruBeya; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2"; }; name = Release; };
+H3 = {isa = XCBuildConfiguration; buildSettings = {}; name = Debug; };
+H4 = {isa = XCBuildConfiguration; buildSettings = {}; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+E1 = {isa = XCConfigurationList; buildConfigurations = (H1,H2); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+E2 = {isa = XCConfigurationList; buildConfigurations = (H3,H4); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+ };
+ rootObject = P1;
+}

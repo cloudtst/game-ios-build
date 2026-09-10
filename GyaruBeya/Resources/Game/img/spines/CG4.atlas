@@ -1,0 +1,649 @@
+
+CG4.png
+size: 4027,3776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+おっぱい
+  rotate: true
+  xy: 2, 2765
+  size: 446, 552
+  orig: 452, 552
+  offset: 0, 0
+  index: -1
+おっぱいカゲ
+  rotate: true
+  xy: 2273, 3409
+  size: 245, 255
+  orig: 336, 302
+  offset: 43, 27
+  index: -1
+しぶき
+  rotate: false
+  xy: 2149, 3037
+  size: 565, 332
+  orig: 1075, 529
+  offset: 243, 97
+  index: -1
+ちんこモザイク
+  rotate: true
+  xy: 1267, 1314
+  size: 600, 808
+  orig: 1037, 1175
+  offset: 437, 0
+  index: -1
+ほほ赤み
+  rotate: true
+  xy: 3678, 3595
+  size: 179, 265
+  orig: 188, 275
+  offset: 3, 2
+  index: -1
+エフェクトハート
+  rotate: false
+  xy: 199, 3553
+  size: 639, 179
+  orig: 641, 181
+  offset: 1, 1
+  index: -1
+サングラス
+  rotate: true
+  xy: 3043, 3627
+  size: 147, 222
+  orig: 149, 229
+  offset: 1, 5
+  index: -1
+サングラスカゲ
+  rotate: true
+  xy: 2262, 3657
+  size: 117, 221
+  orig: 119, 223
+  offset: 1, 1
+  index: -1
+シュシュヒョウ柄ピンク
+  rotate: true
+  xy: 3267, 3612
+  size: 162, 181
+  orig: 165, 185
+  offset: 1, 1
+  index: -1
+スカート
+  rotate: false
+  xy: 2650, 2408
+  size: 1047, 466
+  orig: 1047, 466
+  offset: 0, 0
+  index: -1
+スカートカゲ
+  rotate: false
+  xy: 1157, 2597
+  size: 890, 487
+  orig: 1590, 672
+  offset: 2, 184
+  index: -1
+チョーカー
+  rotate: false
+  xy: 1039, 3715
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+チョーカー表示用
+  rotate: false
+  xy: 2, 2233
+  size: 672, 489
+  orig: 916, 716
+  offset: 88, 174
+  index: -1
+チョーカー表示用制服
+  rotate: false
+  xy: 1350, 2105
+  size: 673, 490
+  orig: 916, 716
+  offset: 87, 174
+  index: -1
+パンツ
+  rotate: true
+  xy: 2049, 2524
+  size: 511, 599
+  orig: 538, 599
+  offset: 27, 0
+  index: -1
+マスク
+  rotate: true
+  xy: 840, 3514
+  size: 199, 242
+  orig: 201, 245
+  offset: 1, 1
+  index: -1
+マスクシミ
+  rotate: false
+  xy: 1208, 3700
+  size: 78, 74
+  orig: 85, 84
+  offset: 3, 6
+  index: -1
+上半身
+  rotate: false
+  xy: 2, 801
+  size: 931, 704
+  orig: 931, 704
+  offset: 0, 0
+  index: -1
+上半身かぶせ
+  rotate: false
+  xy: 3450, 3603
+  size: 226, 171
+  orig: 226, 171
+  offset: 0, 0
+  index: -1
+下半身
+  rotate: false
+  xy: 2074, 2
+  size: 1951, 1234
+  orig: 1953, 1236
+  offset: 1, 1
+  index: -1
+口おちょぼ
+  rotate: false
+  xy: 2, 3771
+  size: 11, 3
+  orig: 14, 5
+  offset: 2, 1
+  index: -1
+口にやける
+  rotate: true
+  xy: 412, 3752
+  size: 22, 33
+  orig: 24, 35
+  offset: 1, 1
+  index: -1
+口歯見せ
+  rotate: true
+  xy: 332, 3756
+  size: 18, 22
+  orig: 20, 29
+  offset: 1, 6
+  index: -1
+口舌ペロ
+  rotate: true
+  xy: 356, 3753
+  size: 21, 28
+  orig: 23, 31
+  offset: 1, 2
+  index: -1
+口舌出し
+  rotate: false
+  xy: 538, 3748
+  size: 29, 26
+  orig: 31, 29
+  offset: 1, 2
+  index: -1
+口舌出し笑い
+  rotate: true
+  xy: 637, 3743
+  size: 31, 36
+  orig: 33, 39
+  offset: 1, 2
+  index: -1
+口閉じ
+  rotate: true
+  xy: 133, 3763
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+口閉じ2
+  rotate: true
+  xy: 223, 3761
+  size: 13, 15
+  orig: 13, 18
+  offset: 0, 1
+  index: -1
+口開け中
+  rotate: false
+  xy: 386, 3753
+  size: 24, 21
+  orig: 26, 23
+  offset: 1, 1
+  index: -1
+口開け大
+  rotate: false
+  xy: 675, 3743
+  size: 33, 31
+  orig: 36, 33
+  offset: 2, 1
+  index: -1
+口開け小
+  rotate: false
+  xy: 151, 3763
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+口開け笑い
+  rotate: true
+  xy: 508, 3749
+  size: 25, 28
+  orig: 27, 30
+  offset: 1, 1
+  index: -1
+口食いしばり
+  rotate: true
+  xy: 569, 3748
+  size: 26, 37
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+吐息
+  rotate: true
+  xy: 2485, 3656
+  size: 118, 119
+  orig: 124, 123
+  offset: 3, 2
+  index: -1
+汗顔
+  rotate: true
+  xy: 882, 3730
+  size: 44, 97
+  orig: 46, 99
+  offset: 1, 1
+  index: -1
+男ちんこ液
+  rotate: true
+  xy: 3242, 2876
+  size: 417, 507
+  orig: 1037, 1175
+  offset: 439, 308
+  index: -1
+男上半身
+  rotate: false
+  xy: 935, 335
+  size: 1137, 977
+  orig: 1137, 977
+  offset: 0, 0
+  index: -1
+男汗
+  rotate: false
+  xy: 2530, 3371
+  size: 280, 265
+  orig: 286, 272
+  offset: 3, 1
+  index: -1
+男胴体下
+  rotate: false
+  xy: 2, 1507
+  size: 1263, 597
+  orig: 1267, 597
+  offset: 4, 0
+  index: -1
+男脚
+  rotate: false
+  xy: 2077, 1238
+  size: 1827, 656
+  orig: 1827, 656
+  offset: 0, 0
+  index: -1
+男陰毛
+  rotate: false
+  xy: 1339, 3471
+  size: 332, 203
+  orig: 334, 206
+  offset: 1, 1
+  index: -1
+男頭
+  rotate: true
+  xy: 1721, 3086
+  size: 354, 426
+  orig: 357, 428
+  offset: 2, 1
+  index: -1
+目じりL
+  rotate: true
+  xy: 31, 3767
+  size: 7, 28
+  orig: 10, 30
+  offset: 1, 1
+  index: -1
+目じりR
+  rotate: false
+  xy: 15, 3768
+  size: 14, 6
+  orig: 17, 10
+  offset: 1, 2
+  index: -1
+目まつ毛L1
+  rotate: true
+  xy: 240, 3760
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+目まつ毛L2
+  rotate: true
+  xy: 165, 3763
+  size: 11, 22
+  orig: 13, 24
+  offset: 1, 1
+  index: -1
+目まつ毛L3
+  rotate: true
+  xy: 189, 3763
+  size: 11, 32
+  orig: 17, 35
+  offset: 2, 1
+  index: -1
+目まつ毛R1
+  rotate: true
+  xy: 61, 3767
+  size: 7, 10
+  orig: 9, 13
+  offset: 1, 1
+  index: -1
+目まつ毛R2
+  rotate: true
+  xy: 96, 3765
+  size: 9, 11
+  orig: 12, 14
+  offset: 2, 1
+  index: -1
+目まつ毛R3
+  rotate: false
+  xy: 121, 3764
+  size: 10, 10
+  orig: 13, 13
+  offset: 2, 2
+  index: -1
+目まつ毛下R
+  rotate: false
+  xy: 73, 3766
+  size: 10, 8
+  orig: 13, 10
+  offset: 2, 1
+  index: -1
+目まぶた上L
+  rotate: true
+  xy: 474, 3750
+  size: 24, 32
+  orig: 25, 35
+  offset: 0, 1
+  index: -1
+目まぶた上R
+  rotate: true
+  xy: 304, 3757
+  size: 17, 26
+  orig: 20, 26
+  offset: 1, 0
+  index: -1
+目まぶた下L
+  rotate: true
+  xy: 710, 3741
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+目まぶた下R
+  rotate: true
+  xy: 280, 3759
+  size: 15, 22
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+目ハイL
+  rotate: false
+  xy: 447, 3751
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+目ハイR
+  rotate: true
+  xy: 257, 3760
+  size: 14, 21
+  orig: 16, 23
+  offset: 1, 1
+  index: -1
+目ハートL
+  rotate: true
+  xy: 109, 3765
+  size: 9, 10
+  orig: 13, 13
+  offset: 2, 2
+  index: -1
+目ハートR
+  rotate: true
+  xy: 85, 3766
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+目ベースL
+  rotate: true
+  xy: 1288, 3699
+  size: 75, 98
+  orig: 77, 100
+  offset: 2, 0
+  index: -1
+目ベースR
+  rotate: true
+  xy: 832, 3734
+  size: 40, 48
+  orig: 46, 48
+  offset: 6, 0
+  index: -1
+目片目閉じ用
+  rotate: true
+  xy: 1126, 3707
+  size: 67, 80
+  orig: 131, 193
+  offset: 60, 59
+  index: -1
+目白L
+  rotate: true
+  xy: 981, 3727
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+目白R
+  rotate: false
+  xy: 752, 3739
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+目瞳L
+  rotate: true
+  xy: 789, 3737
+  size: 37, 41
+  orig: 39, 43
+  offset: 1, 1
+  index: -1
+目瞳R
+  rotate: false
+  xy: 608, 3747
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+目閉じ1
+  rotate: true
+  xy: 2055, 3662
+  size: 112, 205
+  orig: 132, 212
+  offset: 7, 5
+  index: -1
+目閉じ2
+  rotate: true
+  xy: 2606, 3643
+  size: 131, 200
+  orig: 138, 203
+  offset: 2, 1
+  index: -1
+眉困り
+  rotate: true
+  xy: 1522, 3678
+  size: 96, 123
+  orig: 98, 126
+  offset: 1, 1
+  index: -1
+眉怒り
+  rotate: true
+  xy: 1388, 3680
+  size: 94, 132
+  orig: 97, 135
+  offset: 2, 1
+  index: -1
+眉通常
+  rotate: true
+  xy: 1898, 3670
+  size: 104, 155
+  orig: 108, 158
+  offset: 1, 1
+  index: -1
+精液お尻
+  rotate: false
+  xy: 2700, 1896
+  size: 975, 510
+  orig: 978, 515
+  offset: 2, 4
+  index: -1
+精液ちんこ
+  rotate: true
+  xy: 841, 3173
+  size: 283, 878
+  orig: 286, 882
+  offset: 1, 2
+  index: -1
+精液まんこ回り
+  rotate: false
+  xy: 2, 3582
+  size: 195, 179
+  orig: 361, 328
+  offset: 100, 90
+  index: -1
+精液噴射1
+  rotate: false
+  xy: 2006, 3442
+  size: 265, 213
+  orig: 474, 414
+  offset: 95, 123
+  index: -1
+精液噴射2
+  rotate: true
+  xy: 1647, 3676
+  size: 98, 249
+  orig: 474, 414
+  offset: 287, 76
+  index: -1
+精液垂れ
+  rotate: true
+  xy: 2716, 2903
+  size: 408, 524
+  orig: 1037, 1175
+  offset: 461, 286
+  index: -1
+脚奥
+  rotate: true
+  xy: 556, 2724
+  size: 447, 599
+  orig: 450, 601
+  offset: 2, 1
+  index: -1
+表示用制服
+  rotate: false
+  xy: 2025, 1916
+  size: 673, 490
+  orig: 916, 716
+  offset: 87, 174
+  index: -1
+表示用裸
+  rotate: false
+  xy: 676, 2106
+  size: 672, 489
+  orig: 916, 716
+  offset: 88, 174
+  index: -1
+顔
+  rotate: false
+  xy: 2812, 3328
+  size: 311, 297
+  orig: 311, 297
+  offset: 0, 0
+  index: -1
+顔修正
+  rotate: false
+  xy: 3125, 3313
+  size: 311, 297
+  orig: 311, 297
+  offset: 0, 0
+  index: -1
+髪カゲ
+  rotate: true
+  xy: 1084, 3494
+  size: 203, 253
+  orig: 224, 279
+  offset: 4, 22
+  index: -1
+髪サイドL
+  rotate: true
+  xy: 3438, 3295
+  size: 298, 370
+  orig: 298, 380
+  offset: 0, 0
+  index: -1
+髪サイド奥
+  rotate: true
+  xy: 2808, 3638
+  size: 136, 233
+  orig: 150, 288
+  offset: 14, 0
+  index: -1
+髪ポニテ
+  rotate: true
+  xy: 306, 3213
+  size: 299, 533
+  orig: 299, 533
+  offset: 0, 0
+  index: -1
+髪前
+  rotate: true
+  xy: 1673, 3458
+  size: 210, 331
+  orig: 211, 338
+  offset: 0, 0
+  index: -1
+髪前透かし
+  rotate: true
+  xy: 1673, 3458
+  size: 210, 331
+  orig: 211, 338
+  offset: 0, 0
+  index: -1
+髪後頭部
+  rotate: false
+  xy: 2, 3253
+  size: 302, 298
+  orig: 304, 300
+  offset: 1, 1
+  index: -1
+
+CG42.png
+size: 3912,1240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下半身モザイク
+  rotate: false
+  xy: 2, 2
+  size: 1953, 1236
+  orig: 1953, 1236
+  offset: 0, 0
+  index: -1
+下半身モザイクパンツ付き
+  rotate: false
+  xy: 1957, 2
+  size: 1953, 1236
+  orig: 1953, 1236
+  offset: 0, 0
+  index: -1

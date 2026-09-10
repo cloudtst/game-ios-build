@@ -1,0 +1,62 @@
+
+ゲージ.png
+size: 1182,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+【UI】快感度バー
+  rotate: false
+  xy: 2, 2
+  size: 247, 16
+  orig: 247, 16
+  offset: 0, 0
+  index: -1
+【UI】快感度バー2
+  rotate: false
+  xy: 251, 2
+  size: 247, 16
+  orig: 247, 16
+  offset: 0, 0
+  index: -1
+【UI】快感度バー3
+  rotate: false
+  xy: 500, 2
+  size: 247, 16
+  orig: 247, 16
+  offset: 0, 0
+  index: -1
+【UI】快感度バー影
+  rotate: false
+  xy: 749, 2
+  size: 247, 16
+  orig: 247, 16
+  offset: 0, 0
+  index: -1
+ゲージ枠(サブウィンドウ)
+  rotate: false
+  xy: 297, 20
+  size: 293, 108
+  orig: 1280, 720
+  offset: 9, 141
+  index: -1
+ゲージ枠1(サブウィンドウ)
+  rotate: false
+  xy: 592, 20
+  size: 293, 108
+  orig: 1280, 720
+  offset: 9, 141
+  index: -1
+ゲージ枠2(サブウィンドウ)
+  rotate: false
+  xy: 887, 20
+  size: 293, 108
+  orig: 1280, 720
+  offset: 9, 141
+  index: -1
+ゲージ枠3(サブウィンドウ)
+  rotate: false
+  xy: 2, 20
+  size: 293, 108
+  orig: 1280, 720
+  offset: 9, 141
+  index: -1
